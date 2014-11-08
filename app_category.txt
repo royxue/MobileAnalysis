@@ -1,0 +1,2811 @@
+com.android.settings,Unknown
+com.mobile.securacy,Communication
+com.estrongs.android.pop,Productivity
+com.google.android.googlequicksearchbox,Tools
+com.android.launcher,Unknown
+com.android.chrome,Communication
+com.facebook.orca,Communication
+com.android.defcontainer,Unknown
+com.twitter.android,Social
+com.google.android.GoogleCamera,Photography
+com.google.android.gms,Tools
+com.google.android.apps.plus,Social
+com.skype.raider,Communication
+com.google.android.youtube,Media &amp; Video
+com.android.mms,Unknown
+com.facebook.katana,Social
+com.google.android.calendar,Productivity
+com.android.providers.calendar,Unknown
+com.google.android.keep,Productivity
+com.google.android.partnersetup,Unknown
+com.google.android.gm,Communication
+com.google.android.tts,Tools
+com.android.providers.partnerbookmarks,Unknown
+com.google.android.apps.magazines,News &amp; Magazines
+com.android.vending,Unknown
+com.google.android.ears,Music &amp; Audio
+com.google.android.gallery3d,Unknown
+com.google.android.apps.docs,Productivity
+com.google.android.deskclock,Unknown
+com.android.musicfx,Unknown
+jp.co.omronsoft.iwnnime.ml,Tools
+com.android.keychain,Unknown
+com.google.android.talk,Communication
+com.sonelli.juicessh,Communication
+com.android.cellbroadcastreceiver,Unknown
+com.google.android.apps.books,Books &amp; Reference
+com.whatsapp,Communication
+com.google.android.email,Productivity
+com.google.android.exchange,Unknown
+com.android.packageinstaller,Unknown
+com.android.externalstorage,Unknown
+com.android.documentsui,Unknown
+com.google.android.feedback,Unknown
+com.google.android.configupdater,Unknown
+com.android.contacts,Unknown
+com.quickoffice.android,Unknown
+com.google.android.dialer,Unknown
+com.dropbox.android,Productivity
+com.google.android.apps.maps,Travel &amp; Local
+com.google.android.inputmethod.latin,Tools
+com.spotify.mobile.android.ui,Unknown
+fi.sampopankki.android.tribank,Finance
+com.king.candycrushsaga,Casual
+net.easypark.android,Travel &amp; Local
+org.zwanoo.android.speedtest,Tools
+kik.android,Communication
+com.rovio.angrybirds,Arcade
+jp.tomorrowkey.android.screencaptureshortcutfree,Tools
+com.google.android.voicesearch,Tools
+com.android.calculator2,Unknown
+com.aware.probe.china,Unknown
+com.android.launcher3,Unknown
+com.rhmsoft.fm,Business
+com.groupon,Shopping
+org.cyanogenmod.voiceplus,Unknown
+com.svox.pico,Unknown
+com.android.gallery3d,Unknown
+com.android.voicedialer,Unknown
+com.android.email,Unknown
+com.viber.voip,Communication
+com.android.inputmethod.latin,Unknown
+com.aware.plugin.google.activityrecognition,Unknown
+com.cyanogenmod.lockclock,Unknown
+com.google.android.apps.uploader,Unknown
+com.android.deskclock,Unknown
+com.google.android.setupwizard,Unknown
+com.cyanogenmod.fota,Unknown
+com.android.exchange,Unknown
+com.google.android.marvin.talkback,Tools
+com.android.sharedstoragebackup,Unknown
+com.android.dialer,Unknown
+com.android.browser,Unknown
+com.android.calendar,Unknown
+org.whispersystems.whisperpush,Unknown
+cn.wps.moffice_eng,Business
+com.cyanogenmod.account,Unknown
+org.mozilla.firefox,Communication
+com.google.android.apps.translate,Tools
+fi.fmi.mobileweather,Weather
+com.google.android.syncadapters.calendar,Unknown
+com.andrew.apollo,Unknown
+com.caynax.a6w,Health &amp; Fitness
+com.accuweather.android,Weather
+com.aware,Unknown
+com.adobe.reader,Productivity
+com.samsung.SMT,Unknown
+com.samsung.android.tripwidget,Unknown
+com.samsung.android.app.storyalbumwidget,Unknown
+com.samsung.android.widgetapp.briefing4x2,Unknown
+com.sec.android.widgetapp.ap.hero.accuweather,Unknown
+com.sec.android.app.launcher,Unknown
+com.sec.android.Kies,Unknown
+com.wssyncmldm,Unknown
+com.sec.android.app.sbrowser,Unknown
+com.sec.android.allshare.service.mediashare,Unknown
+com.sec.android.SimpleWidget,Unknown
+com.sec.android.inputmethod,Unknown
+com.sec.android.daemonapp,Unknown
+com.sec.android.app.SecSetupWizard,Unknown
+com.sec.android.widgetapp.alarmwidget,Unknown
+com.sec.everglades,Unknown
+com.sec.android.app.controlpanel,Unknown
+net.nurik.roman.dashclock,Personalization
+com.yahoo.mobile.client.android.weather,Weather
+com.capigami.outofmilk,Shopping
+com.sipgate,Unknown
+dk.egovplus.case3.mols.android,Travel &amp; Local
+com.microsoft.onx.app,Personalization
+com.google.android.browser,Unknown
+com.sec.android.app.GlanceView,Unknown
+tunein.player,Music &amp; Audio
+com.sec.android.app.ve,Tools
+com.google.android.gsf.login,Unknown
+com.fsecure.mobile.younited,Productivity
+tv.peel.samsung.app,Media &amp; Video
+com.sec.android.widgetapp.SPlannerAppWidget,Unknown
+com.sec.android.app.keyguard,Unknown
+com.sec.android.sCloudBackupApp,Unknown
+com.sec.android.quickmemo,Unknown
+com.sec.chaton,Communication
+com.sec.android.widgetapp.activeapplicationwidget,Unknown
+net.zedge.android,Personalization
+com.osp.app.signin,Unknown
+com.sec.spp.push,Communication
+com.sec.smartcard.pinservice,Unknown
+com.sec.android.gallery3d,Unknown
+com.sec.pcw.device,Unknown
+sstream.app,Unknown
+com.samsung.helphub,Unknown
+com.policydm,Unknown
+com.samsung.android.app.pinboard,Unknown
+com.samsung.android.app.filterinstaller,Unknown
+com.sec.android.service.cm,Unknown
+com.sec.android.app.FileShareServer,Unknown
+com.samsung.android.app.episodes,Unknown
+net.sylark.apkextractor,Unknown
+com.sec.android.service.health.sensor,Unknown
+com.sec.android.app.shealth,Unknown
+com.sec.esdk.elm,Unknown
+com.onelouder.baconreader,News &amp; Magazines
+com.fmm.dm,Unknown
+fi.itella.posti.android,Productivity
+com.mobeam.barcodeService,Productivity
+com.fonectacaller,Tools
+com.askfm,Social
+com.vlingo.midas,Unknown
+com.sec.android.app.SPenKeeper,Unknown
+com.sec.android.app.parser,Unknown
+com.sec.android.provider.badge,Unknown
+ch.bitspin.timely,Lifestyle
+com.sec.android.widgetapp.easyfavoritescontactswidget,Unknown
+com.sec.android.widgetapp.digitalclock,Unknown
+com.sec.android.cloudagent,Unknown
+com.samsung.SMT.lang_en_us_l01,Unknown
+com.tinder,Lifestyle
+com.samsung.music,Music &amp; Audio
+com.samsung.klmsagent,Unknown
+com.sec.android.fotaclient,Unknown
+com.joelapenna.foursquared,Travel &amp; Local
+com.google.android.apps.unveil,Productivity
+com.touchnote.android,Photography
+com.sec.android.app.FlashBarService,Unknown
+com.antutu.ABenchMark,Tools
+com.touchtype.swiftkey,Productivity
+com.sec.modem.settings,Unknown
+com.sec.android.directshare,Unknown
+com.google.android.maps.mytracks,Health &amp; Fitness
+com.sec.android.sCloudSync,Unknown
+com.qualcomm.timeservice,Unknown
+com.sec.android.app.clockpackage,Unknown
+com.sec.android.app.popupuireceiver,Unknown
+com.evernote,Productivity
+com.sec.android.app.tmserver,Unknown
+com.alphonso.pulse,News &amp; Magazines
+com.ratebeer.android,Lifestyle
+dk.silverbullet.android.danishweather,Unknown
+com.yahoo.mobile.client.android.flickr,Photography
+com.livestream.livestream,Media &amp; Video
+com.lenovomobile.deskclock,Unknown
+de.langerhans.wallet,Finance
+com.google.android.inputmethod.latin.dictionarypack,Unknown
+com.app.pornhub,Unknown
+com.youporn,Unknown
+com.mediatek.atci.service,Unknown
+com.mobileuncle.toolbox,Tools
+com.stealthstudios.vanned,Unknown
+org.mustard.android,Social
+com.instagram.android,Social
+com.sec.android.widgetapp.notificationwidget,Unknown
+com.threebanana.notes,Unknown
+com.teslacoilsw.launcher,Personalization
+com.google.android.apps.adm,Tools
+com.eclipsim.gpsstatus2,Travel &amp; Local
+com.infraware.polarisviewer5,Unknown
+com.sec.android.app.voicenote,Unknown
+com.sec.android.app.videoplayer,Unknown
+com.blizzard.bma,Entertainment
+com.samsung.clipboardsaveservice,Unknown
+com.sec.factory,Unknown
+com.samsung.android.snote,Unknown
+com.android.printspooler,Unknown
+com.google.android.apps.genie.geniewidget,News &amp; Magazines
+com.chrome.beta,Productivity
+com.cyanogenmod.updater,Unknown
+com.mapswithme.maps.pro,Travel &amp; Local
+pt.fjss.s2w,Tools
+com.alensw.PicFolder,Photography
+com.cyanogenmod.CMWallpapers,Unknown
+air.byss.mobi.instaweatherfree,Weather
+com.dotgears.flappybird,Unknown
+com.endomondo.android.pro,Health &amp; Fitness
+com.sec.knox.containeragent,Unknown
+com.sec.android.app.samsungapps,Entertainment
+com.ravenx.amsterdammetro,Unknown
+com.digibites.calendar,Productivity
+net.cactii.flash2,Unknown
+com.avast.android.mobilesecurity,Tools
+com.tmobile.thememanager,Unknown
+org.roccat.powergrid,Productivity
+com.andy.vape,Health &amp; Fitness
+com.bel.android.dspmanager,Music &amp; Audio
+com.cyanogenmod.trebuchet,Unknown
+com.dv.adm,Tools
+com.sec.android.sCloudBackupProvider,Unknown
+com.quoord.tapatalkxda.activity,Communication
+ccc71.st.cpu,Tools
+com.jrummy.root.browserfree,Productivity
+com.aurorasoftworks.quadrant.ui.standard,Tools
+com.mobisystems.office,Business
+com.vlcforandroid.vlcdirectprofree,Media &amp; Video
+com.google.android.videos,Media &amp; Video
+org.videolan.vlc.betav7neon,Media &amp; Video
+com.tmobile.themechooser,Unknown
+com.slim.ota,Unknown
+com.android.camera2,Unknown
+com.maxmpz.audioplayer,Music &amp; Audio
+com.toson.londontransportfree,Unknown
+playboard.android,Entertainment
+com.binerx.aptrax,Tools
+com.actionlauncher.playstore,Personalization
+com.chrislacy.actionlauncher.pro,Personalization
+com.houzz.app,Lifestyle
+com.mycolorscreen.themer,Personalization
+com.cootek.smartinputv5,Productivity
+com.denzilferreira.apps.callername,Tools
+com.jrdcom.launcher,Unknown
+flipboard.app,News &amp; Magazines
+org.wikipedia,Books &amp; Reference
+com.evernote.widget,Productivity
+com.jrdcom.weather,Unknown
+com.android.ActivityNetwork,Unknown
+com.jrdcom.audiofx,Unknown
+com.xenopscreations.hagreve,Social
+osga.utility.passoarezar,Lifestyle
+pt.portoeditora.android.dicionario.lingua_portuguesa,Books &amp; Reference
+com.android.jrdfota,Unknown
+pt.ptinovacao.iad.meoremote,Entertainment
+pt.sapo.mobile.android.ptwifi,Communication
+com.amazon.kindle,Books &amp; Reference
+com.spritemobile.backup.alcatel,Unknown
+pt.sapo.mobile.android.musicbox,Entertainment
+pt.sapo.android.cloudpt,Productivity
+com.sand.airdroid,Tools
+com.android.music,Unknown
+com.shazam.android,Music &amp; Audio
+store.antivirus,Unknown
+com.android.wifidirecttransfer,Unknown
+com.contapps.android,Communication
+com.mobileaction.TclAgent,Unknown
+com.ted.android,Education
+net.daum.android.solcalendar,Productivity
+ru.infteh.organizer.trial,Productivity
+open.menthal,Productivity
+com.ixigo.mypnr,Travel &amp; Local
+eu.chainfire.opendelta,Unknown
+eu.chainfire.supersu,Tools
+com.ogqcorp.bgh,Personalization
+com.noinnion.android.newsplus,News &amp; Magazines
+com.tul.aviate,Personalization
+com.dailymotion.dailymotion,Entertainment
+com.octro.teenpatti,Casino
+com.opera.max,Tools
+net.nurik.roman.muzei,Personalization
+com.innologica.inoreader,News &amp; Magazines
+com.gr8memo.android,Photography
+com.mindmeapp.alarmpad,Lifestyle
+com.floatnote,Communication
+org.omnirom.torch,Unknown
+com.hsenid.flipbeats,Music &amp; Audio
+com.madewithstudio.studio,Photography
+com.miz.muzei.fivehundredpx,Unknown
+com.musixmatch.android.lyrify,Music &amp; Audio
+com.locomain.nexplay,Music &amp; Audio
+com.simplecity.muzei.music,Personalization
+com.aw.AppWererabbit,Tools
+com.appspot.swisscodemonkeys.apps,Tools
+com.keramidas.TitaniumBackup,Tools
+de.robv.android.xposed.installer,Unknown
+com.bam.android.inspirelauncher,Personalization
+johndoeapps.site.com.google.sites.android.appinstallhistory,Tools
+com.noinnion.android.newsplus.extension.inoreader,News &amp; Magazines
+sh.whisper,Social
+com.justpictures,Tools
+com.flowdock.jorge,Business
+com.samsung.android.app.watchmanagerstub,Unknown
+pt.ptsgps.android.ept,Unknown
+com.mediatek.calendarimporter,Unknown
+com.badoo.mobile,Social
+com.greatbytes.fastrebootpro,Tools
+com.sec.android.provider.snote,Unknown
+com.sec.android.widgetapp.diotek.smemo,Productivity
+com.sec.android.app.samsungapps.una2,Unknown
+com.samsung.android.service.travel,Unknown
+com.sec.android.app.mt,Unknown
+com.visionobjects.resourcemanager,Unknown
+com.qihoo.security,Tools
+com.samsung.android.provider.filterprovider,Unknown
+com.sec.android.app.mv.player,Unknown
+com.sec.android.app.mediasync,Unknown
+com.sec.android.app.camera,Unknown
+com.supercell.clashofclans,Strategy
+com.samsung.android.provider.smartclip,Unknown
+com.google.android.apps.authenticator2,Tools
+com.android.nfc,Unknown
+com.samsung.android.MtpApplication,Unknown
+com.sec.providers.settingsearch,Unknown
+com.utorrent.client,Media &amp; Video
+com.blurb.checkout,Photography
+com.sec.android.fwupgrade,Tools
+com.wssnps,Unknown
+com.sec.android.app.sysscope,Unknown
+org.simalliance.openmobileapi.service,Unknown
+com.sec.android.app.safetyassurance,Unknown
+com.sec.android.band,Unknown
+com.sec.android.googlesearchwidget,Unknown
+com.samsung.android.quickmemo,Unknown
+com.samsung.android.covermemo,Unknown
+com.samsung.android.app.assistantmenu,Unknown
+com.sec.android.preloadinstaller,Unknown
+com.sec.phone,Unknown
+com.sec.android.app.myfiles,Unknown
+com.android.bluetooth,Unknown
+com.weather.Weather,Weather
+com.sec.android.mmapp,Unknown
+com.glu.robocop,Action
+com.android.pagebuddynotisvc,Unknown
+com.yle.webtv,Media &amp; Video
+com.sec.android.app.sns3,Unknown
+com.iYOK.AngleMeterV10,Tools
+net.wigle.wigleandroid,Tools
+com.anddoes.launcher,Personalization
+com.mridang.whatsapp,Unknown
+me.grantland.dashclock_battery,Personalization
+com.melodis.midomiMusicIdentifier,Music &amp; Audio
+org.telegram.messenger,Communication
+net.cdeguet.smartkeyboardpro,Tools
+com.quoord.tapatalkHD,Unknown
+com.noinnion.android.greader.readerpro,News &amp; Magazines
+uk.co.nickfines.RealCalcPlus,Productivity
+la.droid.qr,Productivity
+ch.teamtasks.tasks.paid,Productivity
+org.mariotaku.twidere,Communication
+com.handmark.expressweather,Weather
+com.lenovo.powersaving,Unknown
+com.mediatek.FMRadio,Unknown
+com.logikstate.sandslides,Puzzle
+com.bambuna.podcastaddict,Media &amp; Video
+mobi.infolife.ezweather,Weather
+com.klinker.android.evolve_sms,Communication
+com.scavengerhunt.ui,Travel &amp; Local
+com.emtrace.hermes,Unknown
+com.pandora.android,Music &amp; Audio
+com.cheezburger.icanhas,Entertainment
+air.air.SugarSugar,Puzzle
+com.outfit7.trifs.grooveracer,Racing
+com.sonyericsson.soundenhancement,Unknown
+com.estrongs.android.taskmanager,Business
+com.mikandi.android.v3.manager,Unknown
+com.wetter.androidclient,Weather
+com.ttxapps.drivesync,Productivity
+com.android.smspush,Unknown
+com.vipercn.viper4android_v2,Unknown
+org.omnirom.omniswitch,Unknown
+com.android.incallui,Unknown
+com.android.phone,Unknown
+com.android.systemui,Unknown
+ccc71.at,Tools
+de.web.mobile.android.mail,Communication
+com.mysms.android.sms,Communication
+deezer.android.app,Music &amp; Audio
+de.timluegger.golem,Unknown
+android.romstats,Unknown
+com.caf.fmradio,Unknown
+com.ebay.mobile,Shopping
+de.androidpit.app,News &amp; Magazines
+pl.solidexplorer,Productivity
+com.amazon.mp3,Music &amp; Audio
+de.amazon.mShop.android,Shopping
+com.cleanmaster.mguard,Tools
+com.imangi.templerun2,Action
+com.google.android.onetimeinitializer,Unknown
+com.otaupdater,Tools
+com.android.onetimeinitializer,Unknown
+ch.smalltech.ledflashlight.pro,Tools
+com.ceco.kitkat.gravitybox,Unknown
+com.jrummy.liberty.toolboxpro,Tools
+de.tvspielfilm,Entertainment
+com.sonyericsson.extras.liveware,Tools
+com.sec.pcw,Productivity
+com.amazon.venezia,Unknown
+com.qubyte.htr,Simulation
+com.mobialia.slot,Racing
+com.hatsproductions.OrganTrail.humble,Unknown
+de.danoeh.antennapod,Media &amp; Video
+mobi.conduction.swipepad.android,Productivity
+com.romantymchyk.squawk,Productivity
+com.frogmind.badland,Adventure
+com.loudweb.whatsappmediagallery,Tools
+com.in.spd.filmyratings,Unknown
+com.sakal.callist,Communication
+com.saavn.android,Music &amp; Audio
+com.ballerapps.slidingexplorer,Tools
+com.flipkart.slashn,Productivity
+com.flipkart.android,Shopping
+com.google.android.apps.ads.publisher,Productivity
+sportonnet.com.sporttvorg,Unknown
+air.com.kr3m.Slotcar,Arcade
+directenergy.mobileoam,Business
+com.comerica.mobilebanking,Finance
+com.neulion.android.sporttv,Sports
+dev.ukanth.ufirewall,Tools
+com.buak.Link2SD,Tools
+com.jv.falcon.pro,Unknown
+com.sonyericsson.trackid,Music &amp; Audio
+com.samsung.android.walletmanager,Unknown
+com.okcupid.okcupid,Social
+com.sec.android.app.popupcalculator,Unknown
+com.lenovo.smart,Unknown
+com.waze,Travel &amp; Local
+com.sec.msc.learninghub,Unknown
+org.telegram.android.beta,Unknown
+com.htc.task,Unknown
+com.zoodles.kidmode,Education
+eu.thedarken.sdm,Tools
+com.nero.android.htc.sync.installer,Unknown
+com.htc.backup,Tools
+com.advancedprocessmanager,Productivity
+com.htc.launcher,News &amp; Magazines
+com.overlook.android.fing,Tools
+org.jessies.dalvikexplorer,Tools
+com.roysolberg.android.developertools,Tools
+com.SIMAPNCheck,Travel &amp; Local
+it.evilsocket.dsploit.debug,Unknown
+com.htc.reportagent,Unknown
+com.nullsoft.winamp,Unknown
+com.lidroid.fileexplorer,Unknown
+com.dimonvideo.luckypatcher,Unknown
+com.forpda.lp,Unknown
+com.intangibleobject.securesettings.plugin,Tools
+com.sec.app.RilErrorNotifier,Unknown
+de.mehrmann.sdbooster,Tools
+com.fevdev.nakedbrowserpro,Communication
+com.nuance.swype.dtc,Productivity
+com.koushikdutta.superuser,Tools
+com.nll.asr,Productivity
+de.simyo.app.android.meinsimyo,Productivity
+de.radio.android,Music &amp; Audio
+com.smartanuj.hideitpro,Unknown
+com.netbiscuits.bild.android,News &amp; Magazines
+de.fcbayern.android,Sports
+pl.solidexplorer.unlocker,Productivity
+air.com.nwg.deutscheWitze,Entertainment
+com.byeline.hackex,Simulation
+com.microsoft.skydrive,Productivity
+com.ratalaika.digger,Arcade
+com.rovio.angrybirdsstarwarsii.ads,Arcade
+com.coolots.chaton,Unknown
+com.sec.dsm.system,Unknown
+com.samsung.shareshot,Unknown
+com.sec.android.widgetapp.programmonitorwidget,Unknown
+com.strava,Health &amp; Fitness
+android.googleSearch.googleSearchWidget,Unknown
+com.familywall,Lifestyle
+com.android.MtpApplication,Unknown
+com.samsung.scrc.idi.server,Unknown
+com.sec.android.app.factorykeystring,Unknown
+com.sec.factory.camera,Unknown
+com.samsung.android.app.colorblind,Unknown
+com.sec.android.app.bluetoothtest,Unknown
+com.samsung.android.app.accesscontrol,Unknown
+com.qualcomm.privinit,Unknown
+com.wsomacp,Unknown
+com.sec.android.app.translator,Unknown
+com.socialnmobile.hd.flashlight,Tools
+com.cisco.anyconnect.vpn.android.samsung,Business
+com.ideashower.readitlater.pro,News &amp; Magazines
+com.urbandroid.sleep,Lifestyle
+com.github.mobile,Productivity
+com.urbandroid.sleep.full.key,Lifestyle
+com.urbandroid.sleep.addon.stats,Health &amp; Fitness
+org.fdroid.fdroid,Unknown
+net.osmand,Travel &amp; Local
+com.paranoid.paranoidota,Unknown
+com.corcop.menote,Unknown
+com.kiloo.subwaysurf,Arcade
+com.google.android.wearablepreview.app,Unknown
+org.sbtools.gamehack,Unknown
+net.metageek,Unknown
+org.dayup.gtask,Productivity
+fi.iki.murgo.irssinotifier,Communication
+com.samsung.android.app.gestureservice,Unknown
+com.google.android.inputmethod.pinyin,Tools
+com.teslacoilsw.notifier,Libraries &amp; Demo
+org.pocketworkstation.pckeyboard,Productivity
+org.woltage.irssiconnectbot,Communication
+com.opera.browser.classic,Communication
+com.sec.yosemite.phone,Entertainment
+com.samsung.android.strokesearch,Unknown
+com.samsung.drs,Unknown
+com.sec.android.nearby.mediaserver,Unknown
+com.turner.amateursurgeon3,Simulation
+com.clov4r.android.nil,Unknown
+com.zite,News &amp; Magazines
+com.asksven.betterbatterystats_xdaedition,Unknown
+com.teslacoilsw.widgetlocker,Personalization
+com.android.bip,Unknown
+com.sec.android.app.factorymode,Unknown
+at.abraxas.powerwidget,Tools
+com.sec.android.pagebuddynotisvc,Unknown
+dk.tacit.android.foldersync.full,Communication
+com.lsdroid.cerberus,Productivity
+com.yelp.android,Travel &amp; Local
+de.devmil.minimaltext,Personalization
+uk.co.economist,News &amp; Magazines
+com.andrewshu.android.reddit,News &amp; Magazines
+com.mantano.reader.android,Productivity
+nl.fameit.rotate,Tools
+com.tripit.amazon.paid,Unknown
+com.seekingalpha.webwrapper,Finance
+com.kebab.Llama,Tools
+com.samsung.syncservice,Unknown
+mikado.bizcalpro,Productivity
+com.tvshowfavs,Entertainment
+com.ifrins.hipstacast,Music &amp; Audio
+com.QuiteHypnotic.SilentTime,Tools
+com.humblebundle.library,Entertainment
+com.devhd.feedly,News &amp; Magazines
+bbc.iplayer.android,Entertainment
+uk.co.nationalrail.google,Transportation
+com.meetup,Social
+com.lge.mlt,Unknown
+com.ttxapps.dropsync,Productivity
+com.lastpass.lpandroid,Productivity
+com.dagwaging.tppnotifier,Entertainment
+reddit.news,News &amp; Magazines
+com.fjsoft.myphoneexplorer.client,Tools
+com.amazon.mShop.android,Shopping
+com.lge.vvm,Unknown
+com.lge.drmservice,Unknown
+com.fusionone.android.sync.service,Unknown
+me.everything.launcher,Personalization
+com.alarmclock.xtreme.free,Tools
+com.icenta.sudoku.ui,Puzzle
+kcast.android.widget,Finance
+com.brentpanther.bitcoinwidget,Finance
+com.zl.inputmethod.latin,Unknown
+com.projectggk.snapsave,Unknown
+com.snapchat.android,Social
+com.motricity.verizon.ssodownloadable,Tools
+mobi.mgeek.TunnyBrowser,Communication
+com.tumblr,Social
+com.gameloft.android.HEP.GloftRKHP,Unknown
+com.tripadvisor.android.apps.cityguide.copenhagen,Travel &amp; Local
+com.maize.digitalClock,Tools
+com.mediatek.engineermode,Unknown
+com.vp.alarmClockPlusV2,Lifestyle
+jp.naver.line.android,Communication
+com.samsung.groupcast,Business
+com.android.settings.mt,Unknown
+com.appgenix.biztasks,Productivity
+com.sec.android.daemonapp.ap.yahoostock.stockclock,Unknown
+com.sec.android.widgetapp.ap.yahoonews,Unknown
+com.sec.android.daemonapp.ap.accuweather,Unknown
+nl.skywave.ovinfo,Transportation
+com.directv.dvrscheduler,Entertainment
+ru.mail.games.android.JungleHeat,Strategy
+com.hotornot.app,Lifestyle
+com.lge.task,Unknown
+com.lge.email,Unknown
+com.sec.android.widgetapp.alarmclock,Unknown
+com.timsu.astrid,Unknown
+free.mp3.dlv6,Unknown
+com.fsck.k9,Communication
+com.metropcs.rcsmetro,Communication
+org.xbmc.android.remote,Media &amp; Video
+com.ne.facebookphoto,Unknown
+com.plexapp.android,Media &amp; Video
+com.android.htmlviewer,Unknown
+com.teamviewer.teamviewer.market.mobile,Productivity
+com.fidelity.android,Finance
+com.costco.app.android,Lifestyle
+com.samsung.InputEventApp,Unknown
+com.sec.android.widgetapp.favoriteswidget,Unknown
+com.andrewshu.android.redditdonation,News &amp; Magazines
+com.cyanogenmod.filemanager,Unknown
+com.sec.android.favoriteappwidget,Unknown
+com.antivirus,Communication
+net.dinglisch.android.taskerm,Tools
+imoblife.toolbox.full,Productivity
+name.pilgr.appdialer.pro,Productivity
+com.xorware.network.s2g3g.settings,Personalization
+com.appuccino.frequency,Tools
+com.spydiko.rotationmanager,Unknown
+vcam.dk.DanskeNyheder,News &amp; Magazines
+stericson.busybox.donate,Tools
+com.imediapp.appgratisv3,Entertainment
+com.polilabs.thefingerchallenge,Casual
+com.nuance.nmc.sihome.metropcs,Tools
+tw.fatminmin.xposed.minminguard,Unknown
+cloudtv.hdwidgets,Personalization
+net.hubalek.android.apps.reborn.pro,Tools
+mobi.infolife.cache,Tools
+com.xiam.snapdragon.app,Tools
+com.wgn.android.weather,Weather
+org.thoughtcrime.securesms,Communication
+com.hellotext.hello,Communication
+com.coremobility.app.vnotes,Unknown
+net.caffeinelab.pbb,Unknown
+com.diotek.mini_penmemo,Unknown
+com.tencent.mm,Communication
+com.ticketmaster.mobile.android.na,Entertainment
+com.google.android.apps.walletnfcrel,Finance
+com.samsung.mediahub.sprint,Entertainment
+com.sprint.zone,Unknown
+com.sec.android.widgetapp.dualclockanalog,Unknown
+com.locationlabs.v3client,Unknown
+com.birdstep.android.cm,Unknown
+com.sec.knox.seandroid,Unknown
+com.samsung.android.providers.context,Unknown
+com.sec.android.sCloudRelayData,Unknown
+com.sec.msc.nts.android.proxy,Unknown
+com.sec.sprextension.phoneinfo,Unknown
+com.tgrape.android.radar,Unknown
+com.sec.android.app.snotebook,Unknown
+com.sec.sprextension,Unknown
+com.sec.android.provider.logsprovider,Unknown
+com.sec.android.app.mobileprint,Unknown
+com.sec.knox.eventsmanager,Unknown
+com.samsung.sprint.chameleon,Unknown
+com.sec.android.app.servicemodeapp,Unknown
+com.sec.android.daemonapp.ap.yahoonews,Unknown
+com.sprint.ce.updater,Unknown
+com.nuance.swype.input,Unknown
+com.redbox.android.activity,Entertainment
+jp.gungho.padEN,Puzzle
+com.infraware.polarisoffice4,Business
+com.vzw.hss.myverizon,Tools
+com.xorware.android.apps,Personalization
+com.google.android.apps.googlevoice,Communication
+com.wuala.android,Tools
+bbc.mobile.news.ww,News &amp; Magazines
+com.happyexabytes.ambio,Health &amp; Fitness
+com.fring,Communication
+com.cousinHub.Bitcoin_PRO,Finance
+de.schildbach.wallet,Finance
+com.media1908.lightningbug,Health &amp; Fitness
+com.yahoo.mobile.client.android.mail,Communication
+com.james.SmartTaskManager,Productivity
+it.sineo.android.noFrillsCPU,Tools
+org.adblockplus.android,Unknown
+com.tolan.braintestcolor,Puzzle
+com.havos.codewordunlimited,Word
+com.nerdyoctopus.gamedots,Casual
+com.synology.dsvideo,Media &amp; Video
+com.android.rk.books,Unknown
+de.lufthansa.ife.va,Entertainment
+android.rockchip.update.service,Unknown
+com.rk.settings.widget,Unknown
+com.lexulous.Lexulous,Word
+com.incarsoft.languagewizard,Unknown
+com.qin.bootreceiver,Unknown
+com.tbig.playerpro.soundpack,Music &amp; Audio
+com.tbig.playerpro,Music &amp; Audio
+com.atooma,Tools
+com.lge.music,Unknown
+com.netflix.mediaclient,Entertainment
+com.digiplex.game,Puzzle
+com.iphonease.ledflashlight.button,Tools
+com.fsecure.ms.fsecure_pc,Unknown
+com.metago.astro,Productivity
+com.fsecure.mute,Unknown
+com.fsecure.freedome.vpn.security.privacy.android,Tools
+com.fsecure.tools.ms.changelang,Unknown
+com.glu.deerhunt2,Action
+com.example.helloadms,Unknown
+com.mcstealthapps.freshnetwork,Tools
+com.google.android.apps.paidtasks,Tools
+com.mediatek.omacp,Unknown
+com.mediatek.mobilelog,Unknown
+com.mediatek.smsreg,Unknown
+com.jrdcom.file.operation,Unknown
+mobi.beyondpod,News &amp; Magazines
+com.jrdcom.fota,Unknown
+com.mediatek.videofavorites,Unknown
+com.appturbo.appturboDK,Lifestyle
+com.kattanweb.android.dfaa,Tools
+com.lbe.security,Tools
+pl.krzemdev.dogebreeding,Arcade
+com.gsamlabs.bbm.pro,Tools
+com.gsamlabs.bbm.rootcompanion,Tools
+dk.almbrand.mobilbank,Finance
+dk.minreklame.tilbudsavis,Shopping
+udk.android.reader,Productivity
+com.matthew.rice.volume.master,Tools
+com.Elecont.WeatherClock,Weather
+de.dhl.paket,Productivity
+stericson.busybox,Tools
+de.orrs.deliveries,Productivity
+com.mxtech.videoplayer.ad,Media &amp; Video
+com.koushikdutta.rommanager,Tools
+de.j5k.gullinewsreader,News &amp; Magazines
+net.shajul.usbotg,Tools
+com.google.zxing.client.android,Shopping
+com.fsecure.ms.safe,Tools
+com.acer.android.acernidus,Unknown
+com.mediatek.appwidget.worldclock,Unknown
+com.example.android.skeletonapp,Health &amp; Fitness
+com.owncloud.android,Productivity
+com.noinnion.android.voicereading,News &amp; Magazines
+net.bytten.xkcdviewer,Comics
+com.chase.sig.android,Finance
+dk.danskebank.android.tribank,Finance
+de.hafas.android.db,Transportation
+com.noshufou.android.su,Tools
+com.hipmunk.android,Travel &amp; Local
+com.tokasiki.android.voicerecorder,Productivity
+coolcherrytrees.games.reactor,Family
+com.frogmind.badland.humble,Unknown
+fi.polar.polarflow,Health &amp; Fitness
+com.riva.sueca,Card
+com.guardian,News &amp; Magazines
+com.sec.android.widgetapp.at.hero.accuweather,Unknown
+com.sec.android.widgetapp.dualclockdigital,Unknown
+com.dictionary,Books &amp; Reference
+com.sec.android.widgetapp.memo,Unknown
+com.sec.android.app.phoneutil,Unknown
+com.samsung.map,Unknown
+com.daylightmap.moon.pro.android,Books &amp; Reference
+bbc.mobile.weather,Weather
+com.thetiltalarm.app,Lifestyle
+com.bskyb.skynews.android,News &amp; Magazines
+com.ta.volumecontrol,Unknown
+com.sec.android.app.memo,Unknown
+com.sec.android.app.worldclock,Unknown
+com.aldiko.android,Books &amp; Reference
+com.mapfactor.navigator,Travel &amp; Local
+my.handrite,Productivity
+com.sec.android.widgetapp.at.yahoostock.stockclock,Unknown
+com.feeperfect.feemwifi.free,Tools
+nu.tommie.inbrowser,Communication
+com.android.hiddenmenu,Unknown
+com.ninegag.android.app,Entertainment
+com.evernote.skitch,Productivity
+com.ijinshan.kbatterydoctor_en,Tools
+org.torproject.android,Communication
+com.splunchy.android.alarmclock,Tools
+com.bskyb.skygo,Entertainment
+com.paypal.android.p2pmobile,Finance
+uk.co.santander.santanderUK,Finance
+com.stac.empire.main,Role Playing
+uk.co.northernbank.android.tribank,Finance
+com.ninjakiwi.bloonstd5,Strategy
+com.realdriftportnew.sipon,Racing
+com.google.android.launcher,Tools
+org.omnirom.device,Unknown
+com.yassirh.digitalocean,Productivity
+com.androidlost,Tools
+com.gotv.crackle.handset,Entertainment
+com.squareup,Business
+de.fax.freefax,Communication
+mnn.Android,News &amp; Magazines
+com.sec.android.widgetapp.dualclockdigital4x2,Unknown
+com.sec.android.widgetapp.analogclockunique,Unknown
+com.fooducate.nutritionapp,Health &amp; Fitness
+com.facebook.pages.app,Business
+com.adsk.sketchbookhd.galaxy.oem,Unknown
+com.teslacoilsw.launcher.prime,Personalization
+com.rhapsody,Music &amp; Audio
+com.goodmooddroid.gesturecontroldemo,Tools
+org.adaway,Unknown
+com.riteshsahu.SMSBackupRestore,Tools
+uk.co.o2.android.myo2,Tools
+com.siriusapplications.quickboot,Tools
+com.akvelon.signaltracker,Tools
+mohammad.adib.switchr,Tools
+com.fsecure.app.permissions.privacy,Tools
+net.thecloud.fastconnect,Travel &amp; Local
+air.com.ukeypad.grooveshark,Unknown
+com.sapps.android.NoWallpaper,Personalization
+com.android.location.fused,Unknown
+com.xin.android.notepad,Unknown
+com.rockchip.shelves.appwidget,Unknown
+com.rk.batteryWidget,Unknown
+com.rockchip.photo.appwidget,Unknown
+com.android.quicksearchbox,Unknown
+com.jogatina.canasta,Card
+fi.op.android.lompsa,Finance
+com.sonymobile.cameracommon,Unknown
+com.sonyericsson.android.camera,Unknown
+com.sonyericsson.android.camera3d,Unknown
+com.sonyericsson.android.addoncamera.artfilter,Unknown
+com.sonymobile.androidapp.functiontester,Tools
+com.sonyericsson.album,Unknown
+com.sony.smallapp.managerservice,Unknown
+com.sonyericsson.crashmonitor,Unknown
+com.sonyericsson.dlna,Unknown
+com.sony.snei.np.android.account,Tools
+com.sonymobile.tvout.wifidisplay,Unknown
+com.mobnetic.coinguardian,Finance
+com.jmz.soft.twrpmanager,Tools
+com.sec.android.providers.tasks,Unknown
+com.lge.launcher2,Unknown
+com.wakdev.nfctasks,Tools
+com.wakdev.wdnfc,Tools
+com.lge.carhome,Unknown
+com.lge.filemanager,Unknown
+com.kloonigames.crayon.humble,Unknown
+com.lge.sizechangable.memo,Unknown
+com.lge.sizechangable.calendar,Unknown
+com.microsoft.office.onenote,Productivity
+vStudio.Android.Camera360Plus,Unknown
+com.lge.chargingwallpaper.gentlybubblingwatercw,Unknown
+com.oasisfeng.greenify,Tools
+com.lge.smartshare,Unknown
+com.flyersoft.moonreader,Books &amp; Reference
+com.tocaboca.tocalab,Education
+com.koushikdutta.rommanager.license,Tools
+com.example.testapp,Unknown
+com.fsecure.ms.dc,Tools
+com.SystemCleanup.Inteks.org,Tools
+co.vine.android,Social
+com.levelup.touiteur,Social
+com.tmobile.vvm.application,Tools
+com.cequint.ecid,Unknown
+com.sec.tetheringprovision,Unknown
+com.samsung.android.app.lounge,Unknown
+com.lookout,Productivity
+com.tmobile.pr.mytmobile,Tools
+tv.ustream.ustream,Media &amp; Video
+com.sec.android.voltesettings,Unknown
+com.tmobile.highlight,News &amp; Magazines
+com.android.browser.provider,Unknown
+com.sec.android.service.sm,Unknown
+com.kakao.talk,Communication
+cc.madkite.freedom,Unknown
+com.google.android.nfcprovision,Unknown
+com.airbnb.android,Travel &amp; Local
+com.devuni.flashlight,Tools
+com.google.android.apps.iosched,Unknown
+com.anod.calendar,Productivity
+fi.blockware.mroom,Lifestyle
+com.sec.android.app.easylauncher,Unknown
+com.sec.setdefaultlauncher,Unknown
+com.ipsec.vpnclient,Unknown
+com.ipsec.service,Unknown
+com.duckduckgo.mobile.android,Books &amp; Reference
+info.guardianproject.browser,Communication
+com.bbm,Communication
+com.speedsoftware.explorer,Productivity
+org.xbmc.xbmc,Unknown
+com.sec.spen.flashannotate,Unknown
+com.neulion.android.zon2013,Media &amp; Video
+com.aguirre.android.mycar.activity,Transportation
+com.sec.android.RilServiceModeApp,Unknown
+com.ea.games.r3_row,Racing
+tv.twitch.android.viewer,Entertainment
+com.dccu.mobilebanking,Finance
+com.rageconsulting.android.lightflowlite,Tools
+com.sonymobile.sonyselectdata,Unknown
+com.sonymobile.mx.android,Unknown
+com.RobotUnicornAttack,Arcade
+com.sonyericsson.tetherentitlementcheck,Unknown
+com.sonyericsson.music,Unknown
+com.gameloft.android.ANMP.GloftA8HM,Racing
+com.sonymobile.tasks,Unknown
+com.sony.nfx.app.sfrc,News &amp; Magazines
+com.sony.gsmguxmk.xperiaprivilege2012,Unknown
+com.ea.game.pvz2_row,Casual
+com.sonymobile.playanywhere,Unknown
+com.sonymobile.phoneusage,Unknown
+com.sonyericsson.xhs,Entertainment
+com.sonyericsson.usbux,Unknown
+com.sonyericsson.home,Unknown
+com.sonymobile.runtimeskinning.core,Unknown
+com.sonyericsson.updatecenter,Unknown
+com.realvnc.android.remote,Unknown
+com.authy.authy,Tools
+com.kncwallet.wallet,Finance
+com.sonyericsson.textinput.uxp,Communication
+com.sonymobile.enterprise.service,Unknown
+com.playstation.psstore,Unknown
+com.sonymobile.photoanalyzer,Unknown
+com.sonyericsson.conversations,Unknown
+com.ampparit.android,News &amp; Magazines
+com.sonyericsson.android.socialphonebook,Unknown
+com.sonyericsson.psm.sysmonservice,Unknown
+com.sonyericsson.android.smartsearch,Unknown
+com.sonyericsson.video,Unknown
+com.vzw.sms,Unknown
+com.lge.tv.remoteapps,Entertainment
+com.gadgetjuice.dockclock,Lifestyle
+dk.mobilkunden.app,Tools
+com.google.android.apps.chromecast.app,Tools
+com.qualcomm.cabl,Unknown
+com.lge.LgHiddenMenu,Unknown
+com.lge.hiddenmenu,Unknown
+com.lge.sizechangable.worldclock,Unknown
+com.innopath.activecare.dev.oem,Unknown
+com.lge.sizechangable.photoalbum,Unknown
+com.lge.lockscreensettings,Unknown
+com.liveleak.liveleak,Entertainment
+com.agilesoftresource,Productivity
+com.giffgaffmobile.controller,Communication
+com.lge.SprintHiddenMenu,Unknown
+com.linkbubble.playstore,Personalization
+com.sonyericsson.capabilities,Unknown
+fi.nordea.mobilebank,Finance
+com.lander.hello,Entertainment
+com.soundcloud.android,Music &amp; Audio
+com.mobile.ign,Entertainment
+it.mvilla.fenix.preview,Unknown
+com.netgate,Finance
+com.slice,Shopping
+com.truecaller,Communication
+com.motorola.widget.circlewidget3d,Unknown
+com.urbandroid.inline,Tools
+com.instabridge.android,Social
+com.google.android.apps.onetoday,Lifestyle
+com.pylba.news,News &amp; Magazines
+com.texty.sms,Communication
+com.anydo.cal,Productivity
+com.vzw.hss.widgets.infozone,Tools
+com.motorola.nfcauthenticator,Tools
+com.blockcallsgetcash,Tools
+com.tawkon,Health &amp; Fitness
+com.nullsoft.prostub,Unknown
+com.anydo,Productivity
+com.mrnumber.blocker,Communication
+com.tryagent,Tools
+com.appstar.callrecorderpro,Tools
+com.motorola.aon,Communication
+com.motorola.slpc,Communication
+todd.hudson.ideclare,Unknown
+com.motorola.MotGallery2,Media &amp; Video
+me.onemobile.android,Unknown
+com.fitnesskeeper.runkeeper.pro,Health &amp; Fitness
+gbis.gbandroid,Travel &amp; Local
+com.zoner.android.antivirus,Tools
+net.simplyadvanced.ltediscovery,Tools
+cm.aptoide.pt,Unknown
+com.sonyericsson.organizer,Unknown
+de.j4velin.notificationToggle,Tools
+com.nianticproject.ingress,Adventure
+com.sec.android.scloud.quota,Unknown
+com.motorola.camera,Tools
+com.truphone.andrd,Communication
+com.google.glass.companion,Tools
+com.tuneit.pingtune.prod,Communication
+com.embeepay.mpm,Communication
+com.mail.mobile.android.mail,Communication
+com.linkedin.android,Social
+com.motorola.zap,Media &amp; Video
+com.motorola.contextual.smartrules2,Tools
+com.amazon.clouddrive.photos,Photography
+org.myklos.btautoconnect,Communication
+com.motorola.genie,Tools
+com.worldmate,Travel &amp; Local
+com.pn.helper,Unknown
+com.audible.application,Books &amp; Reference
+com.xobni.contacts,Unknown
+com.motorola.vzw.settings.extensions,Unknown
+com.motorola.context,Tools
+com.td,Finance
+com.felixheller.sharedprefseditor,Tools
+com.motorola.audioeffects,Unknown
+joansoft.dailybible,Books &amp; Reference
+hu.xilard.voiceplus,Communication
+com.latedroid.juicedefender,Productivity
+com.quizup.core,Trivia
+com.goldenfrog.vyprvpn.app,Tools
+com.vzw.apnservice,Unknown
+com.shazam.encore.android,Music &amp; Audio
+com.gn.android.compass,Tools
+com.app.stores,Unknown
+com.linkbubble.license.playstore,Personalization
+com.sonymobile.notes,Unknown
+com.wyse.pocketcloudfree,Business
+com.pushbullet.android,Productivity
+uk.co.nickfines.RealCalc,Productivity
+com.buycott.android,Shopping
+com.citc.wallbase,Unknown
+air.br.com.bitlabs.FLVPlayer,Media &amp; Video
+com.levelup.beautifulwidgets,Personalization
+ma.wanam.torch,Tools
+com.mycelium.wallet,Finance
+org.thialfihar.android.apg,Communication
+com.surpax.ledflashlight.panel,Productivity
+com.devexpert.weather,Weather
+com.haxor,Tools
+com.nhl.gc1314.njd,Sports
+com.sonyericsson.extras.liveware.extension.call,Communication
+com.twentyfivesquares.press,News &amp; Magazines
+com.runtastic.android.pro2,Health &amp; Fitness
+com.skvalex.callrecorder,Tools
+com.sonyericsson.extras.liveware.extension.calendar.control,Tools
+com.bfrontier.smartwatchmodechanger,Tools
+com.fsecure.mobile.contentanywhere.fsc,Social
+com.sam.android.app.watchify,Communication
+com.tidus.Ephemeridroid,Tools
+com.mediatek.batterywarning,Unknown
+com.acer.android.widget.weather2,Weather
+com.acer.android.widget.digitalclock2,Weather
+com.arkea.android.application.cmso2,Finance
+com.pagesjaunes,Travel &amp; Local
+com.lachainemeteo.androidapp,Weather
+com.mediatek.schpwronoff,Unknown
+com.aufeminin.marmiton.activities,Lifestyle
+com.acer.ccd,Tools
+com.mediatek.systemupdate,Unknown
+fr.geobert.radis,Finance
+com.mediatek.systemupdate.sysoper,Unknown
+com.mediatek.mtklogger,Unknown
+com.mediatek.videoplayer,Unknown
+com.sparrows.wifihotspot,Unknown
+com.dexterltd.wifiscanner_lite,Unknown
+biz.bookdesign.librivox,Books &amp; Reference
+com.google.android.apps.currents,News &amp; Magazines
+org.connectbot,Communication
+com.google.android.stardroid,Books &amp; Reference
+com.android.keepass,Tools
+com.lge.QuickClip,Unknown
+com.oanda.currencyconverter,Travel &amp; Local
+menion.android.locus,Travel &amp; Local
+com.fsecure.freedome.vpn.security.privacy.android.fellows,Unknown
+com.app.unotelly,Media &amp; Video
+com.robotentertainment.heroacademy,Arcade
+com.icestone.Emoji,Tools
+com.klncity1.emojikeyboard,Tools
+com.wiresareobsolete.tripmaster,Unknown
+com.crazystudio.emoji.kitkat,Tools
+ie.rational.services.rush.poker.net,Card
+com.mttnow.droid.easyjet,Travel &amp; Local
+com.mediatek.mdlogger,Unknown
+com.gmail.developer.runks.enji,Tools
+com.ucamera.ucampro,Photography
+com.flywheelsoft.goodmorning,Productivity
+com.motorola.motoemail,Unknown
+com.functionx.viggle,Entertainment
+com.qualcomm.atfwd,Unknown
+com.qualcomm.qualcommsettings,Unknown
+com.cloudmagic.mail,Communication
+com.sleepingbeastgames.spaceteam,Family
+com.rcreations.WebCamViewerPaid,Productivity
+com.sonymobile.aptx.notifier,Unknown
+com.sony.nfx.service.WirelessControllerManagerService,Unknown
+com.sonymobile.seamlesstether,Unknown
+org.codeaurora.bluetooth,Unknown
+com.sonymobile.smartconnect.smartwatch2,Communication
+com.example.darkactionbar,Unknown
+com.tdevaux.googleurlshortener,Productivity
+com.google.sample.cast.refplayer,Unknown
+com.fsecure.pwmgr,Unknown
+com.google.android.apps.cloudprint,Productivity
+com.motorola.messaging,Unknown
+com.rhmsoft.deviantart,Unknown
+de.steverohrlack.statusagenda,Productivity
+com.microsoft.smartglass,Entertainment
+com.skype.android.access,Travel &amp; Local
+com.voxofon,Communication
+com.jiubang.browser,Communication
+it.miabit.android.dataonoff,Tools
+msd.n2g.n3g.sell,Unknown
+com.sec.android.provider.smemo,Unknown
+com.mint,Finance
+com.intuit.quicken,Finance
+usa.jersey.tvlistings,Entertainment
+com.bubblesoft.android.bubbleupnp,Music &amp; Audio
+com.codemasters.cmrally,Racing
+com.anddoes.notifier,Personalization
+com.duudood.dota2,Unknown
+com.fingersoft.hillclimb,Racing
+com.sonyericsson.metadatacleanup,Unknown
+com.citc.weather,Weather
+com.sonymobile.autopairing,Unknown
+com.mobisystems.fileman,Business
+com.sonyericsson.customizedsettings,Unknown
+com.sonyericsson.setupwizard,Unknown
+com.sonyericsson.lockscreen.uxpnxt,Unknown
+com.sonymobile.experienceflow2,Personalization
+com.sonymobile.gpssatellitesnotification,Unknown
+org.zapto.samhippiemiddlepoolchecker,Tools
+com.sonymobile.remotestorage,Unknown
+com.sonymobile.remotefileaccess,Unknown
+com.sonymobile.dlna,Unknown
+com.sonymobile.podcast,Unknown
+com.sonyericsson.tvout.mhl,Unknown
+com.jrdcom.torch,Unknown
+com.jrdcom.setupwizard,Unknown
+com.farproc.wifi.analyzer,Tools
+com.android.videoeditor,Unknown
+com.lima.doodlejump,Arcade
+pt.cgd.caixadirecta,Unknown
+pt.tmn.android.ptcenter,Tools
+com.sonymobile.sonyselect,Unknown
+com.sonyericsson.settings,Unknown
+com.sonyericsson.wallpaperpicker,Unknown
+com.android.wallpaper.livepicker,Unknown
+com.go.launcherex.theme.kxnt.miui,Unknown
+com.sonymobile.androidapp.cameraaddon.infoeye,Unknown
+stealthychief.theme.axis,Personalization
+com.dreambit.wazeup,Unknown
+com.runar.issdetector,Education
+com.nuance.swype.amz,Unknown
+com.lge.sizechangable.weather,Unknown
+com.hy.system.fontserver,Unknown
+com.fsecure.mobile.sync,Unknown
+com.sonymobile.drm.ui,Unknown
+com.lge.app.richnote,Unknown
+com.lge.voicerecorder,Unknown
+com.altaine.subcard,Lifestyle
+com.namcobandaigames.pacmantournaments,Arcade
+com.infraware.polarisoffice,Unknown
+namco.pacman.cedemo,Arcade
+com.dsd164.snake97,Arcade
+com.dsd164.snake2k,Arcade
+se.badaccess.locale.nfc,Productivity
+uk.co.mytechie.setDNSPro,Tools
+com.zealousOne.changemydns,Tools
+com.c51,Shopping
+com.android.protips,Unknown
+com.nxp.taginfolite,Tools
+com.hemispheregames.osmos.tablet.humble,Unknown
+com.eboks.activities,Productivity
+biz.bokhorst.xprivacy,Unknown
+fi.polar.beat,Health &amp; Fitness
+com.mcp.android.wocs,Tools
+com.htc.cirmodule,Unknown
+cz.zalsky.android.watchremotecontrol,Music &amp; Audio
+com.redbend.vdmc,Unknown
+com.macropinch.swan,Weather
+com.motorola.vvm,Unknown
+com.motorola.deviceauthenticator,Unknown
+com.voiceplusfree,Communication
+com.holiestar.flashoncall,Unknown
+com.motorola.audiomonitor,Tools
+com.qualcomm.services.location,Unknown
+com.motorola.vzw.phone.extensions,Unknown
+com.motorola.wirelessdisplay.service,Unknown
+com.motorola.notificationtutorial,Unknown
+com.motorola.devicemanagement,Unknown
+com.motorola.targetnotif,Communication
+com.arcana.roamer,Travel &amp; Local
+com.motorola.context.updater,Unknown
+com.motorola.motocare,Unknown
+com.motorola.cardock,Unknown
+com.motorola.motlauncher,Unknown
+hotspotshield.android.vpn,Tools
+com.cogi.mobile,Productivity
+com.sonymobile.smartconnect.raphael,Communication
+com.fsecure.mobile.castintegrationtest,Unknown
+com.example.android.navigationdrawerexample,Unknown
+dk.cph.cphairport,Travel &amp; Local
+com.kakao.story,Social
+com.github.andlyticsproject,Tools
+com.imdb.mobile,Entertainment
+de.theknut.xposedgelsettings,Tools
+com.ammobile.acupain,Medical
+de.telekom.mdm,Tools
+de.chip.ultimate,News &amp; Magazines
+com.xing.android,Social
+com.lge.shutdownmonitor,Unknown
+com.lge.mhlmultimediahome,Unknown
+com.doublep.wakey,Tools
+com.lovewuchin.xposed.xmultiwindow,Unknown
+com.sunspot.ray.pro,Personalization
+com.mediatek.filemanager,Unknown
+com.example.testelayout,Unknown
+com.vimeo.android.videoapp,Entertainment
+air.com.fanatee.letroca,Word
+com.interfacom.taxiclick,Travel &amp; Local
+com.pocketools.currency,Finance
+com.xe.currency,Travel &amp; Local
+com.wunderkinder.wunderlistandroid,Productivity
+com.t_systems.ctv.android,Entertainment
+de.telekom.hotspotlogin.de,Tools
+com.quoord.tapatalkxdapre.activity,Communication
+com.android.wallpapercropper,Unknown
+com.canonical.ubuntu.installer,Unknown
+flashlight.led.clock,Productivity
+com.kaja.instantwatcher,Media &amp; Video
+com.google.android.apps.blogger,Social
+com.Kajakki.Venyttely,Unknown
+com.socialnmobile.colordict,Books &amp; Reference
+com.motionone.afterfocus,Photography
+com.softpauer.f1timingapp2014.basic,Sports
+com.s0up.goomanager,Unknown
+com.fossor.wheellauncher,Personalization
+com.android.wallpaper,Unknown
+com.jamworks.sidecuts,Personalization
+com.lego.starwars.theyodachronicles,Arcade
+com.yunio,Tools
+com.qq.qcloud,Productivity
+com.mseven.msecure,Productivity
+com.sonymobile.sketch,Entertainment
+com.vtcreator.android360,Photography
+com.sonyericsson.unsupportedheadsetnotifier,Unknown
+com.radiantbits.atrium,Unknown
+com.fappbulously.movie,Unknown
+com.fossor.wheellauncherfull,Personalization
+com.motorola.localwipe.policy,Unknown
+com.lge.gnss.airtest,Unknown
+com.vistechprojects.planimeter,Productivity
+com.vistechprojects.maptrack,Productivity
+com.wikia.singlewikia.leagueoflegends,Entertainment
+com.google.android.play.games,Entertainment
+dk.danskebank.mobilepay,Finance
+mohammad.adib.sidebar,Tools
+com.linedev.android.hub,Unknown
+com.linedev.android.hub.pro,Unknown
+com.birbeck.android.coverart,Music &amp; Audio
+ru.mail.cloud,Productivity
+ch.threema.app,Communication
+com.dynamixsoftware.printhand,Business
+larry.zou.colorfullife,Social
+com.sebouh00.smartwifitoggler,Tools
+org.navitproject.navit,Travel &amp; Local
+com.paranoid.lightbulb,Unknown
+org.wahtod.wififixer,Tools
+com.mediatek.bluetooth,Unknown
+com.mediatek.thermalmanager,Unknown
+com.FD.updater,Tools
+com.acer.android.liveupdater,Unknown
+com.mediatek.voicecommand,Unknown
+com.mediatek.datatransfer,Unknown
+com.moblynx.cameraics,Photography
+com.mediatek.apst.target,Unknown
+com.acer.android.datatraffic,Unknown
+com.mediatek.todos,Unknown
+com.sonyericsson.credentialmanagerservice,Unknown
+ds.cpuoverlay,Tools
+fi.op.android.webbank,Finance
+com.contapps.android.dialer,Communication
+com.turner.cnvideoapp,Media &amp; Video
+com.flyingottersoftware.mega,Productivity
+com.marinetraffic,Unknown
+appsfuel.buongiorno.com,Unknown
+com.acm.dl,Books &amp; Reference
+com.care.android.careview,Lifestyle
+com.jrdcom.ui.notes,Unknown
+org.openintents.shopping,Shopping
+com.sony.smallapp.launcher,Unknown
+com.socialnmobile.dictapps.notepad.color.note,Productivity
+com.mediatek.MediatekDM,Unknown
+com.mobogenie,Unknown
+vStudio.Android.Camera360,Photography
+com.opda.actionpoint,Tools
+com.vectorlabs.fingerprint.lockscanner,Unknown
+atticlab.bodyscanner,Entertainment
+com.lenovo.anyshare,Unknown
+com.huawei.android.totemweather,Unknown
+com.huawei.android.hwouc,Unknown
+com.huawei.inputmethod.hwpal,Unknown
+com.iphone5s.ios7.lockscreen,Unknown
+globalcom.mobilenumberlocator,Unknown
+com.smule.magicpiano,Music &amp; Audio
+com.rumr,Communication
+com.andymstone.accuratecompass,Tools
+com.mediocre.grannysmith,Arcade
+com.andromo.dev22397.app140830,News &amp; Magazines
+org.qcontinuum.planets,Education
+com.svox.classic,Libraries &amp; Demo
+com.csipsimple,Communication
+air.PenaltyCup2014,Unknown
+org.boskoi.android,Tools
+com.ridescoutapp.android.ridescout,Transportation
+com.alltrails.alltrails,Travel &amp; Local
+air.gov.census.phone.dwellr,Lifestyle
+com.aware.plugin.weather,Unknown
+com.dianxinos.dxbs,Productivity
+com.aware.plugin.pedometer,Unknown
+com.aware.plugin.modeoftransportation,Unknown
+com.aware.plugin.noise_level,Unknown
+com.igg.clash_of_lords,Strategy
+com.igg.castleclash,Strategy
+br.com.rodrigokolb.realdrum,Music
+matchart.android,Lifestyle
+com.pikpok.rua2,Arcade
+com.superphunlabs.speedgauge,Transportation
+com.stt.android,Health &amp; Fitness
+com.qo.android.sp.oem,Unknown
+com.mjs.countemblackjack2,Card
+com.google.android.videoeditor,Unknown
+com.tct.onetouchshare,Unknown
+com.example.getconversas,Unknown
+com.qualcomm.qcrilmsgtunnel,Unknown
+com.innovagency.ana,Transportation
+com.jrdcom.tethering,Unknown
+com.speedsoftware.rootexplorer,Productivity
+com.qualcomm.shutdownlistner,Unknown
+com.sec.tcpdumpservice,Unknown
+com.sec.android.omc,Unknown
+com.fmm.ds,Unknown
+com.hp.android.print,Productivity
+com.donutgames.catphysics,Family
+com.merriamwebster,Books &amp; Reference
+com.example.getchamadas,Unknown
+com.mandicmagic.android,Social
+com.galaxy.portugaltv,Unknown
+com.omersezer.portugalfootball,Unknown
+com.BinauralBeatsMusic05_3,Lifestyle
+com.kiwifruitmobile.sudoku,Board
+fr.epicdream.beamy,Shopping
+org.leo.android.dict,Books &amp; Reference
+com.lego.mindstorms.robotcommander,Tools
+com.NP.teclado,Unknown
+com.digital_and_dreams.android.swiss_army_knife,Tools
+com.pixlr.express,Photography
+com.maildroid,Communication
+com.avg.cleaner,Tools
+com.countercultured.irc.slim,Unknown
+com.cyanogenmod.settings.device,Unknown
+com.maxmpz.audioplayer.widgetpack1,Music &amp; Audio
+com.mgs.mundodapicaria,News &amp; Magazines
+com.Magickey.MagicContact,Communication
+com.teamviewer.quicksupport.market,Productivity
+com.google.earth,Travel &amp; Local
+com.google.chromeremotedesktop,Tools
+com.mailboxapp,Productivity
+com.teamviewer.quicksupport.addon.alcatela,Productivity
+com.icecoldapps.screenshotultimate,Tools
+com.idmobile.flashlight,Tools
+com.android.shell,Unknown
+com.rastergrid.game.pocketsoccer,Arcade
+com.entwicklerx.shuffleboard,Casual
+com.jrdcom.alcatelhelp,Unknown
+pt.sapo.mobile.android.cinema,Entertainment
+com.cooliris.media,Unknown
+com.popularapp.fakecall,Productivity
+com.battery.saving.app,Unknown
+com.rootuninstaller.taskbarw8,Tools
+com.rootuninstaller.rambooster,Tools
+com.Tech7.KitKatLockScreen,Personalization
+com.osmino.wifil,Tools
+com.amazon.fv,Unknown
+com.battery.saver.fast.charging,Unknown
+com.kashif.TalkingCallerID,Productivity
+com.moblynx.galleryicsold,Photography
+com.moblynx.camerakk,Photography
+com.beatsmusic.android.client,Music &amp; Audio
+com.kitkatandroid.contacts,Unknown
+com.sp.smartgallery.free,Tools
+si.matejpikovnik.menstrual,Medical
+com.mandy.kitkatwallpapers,Personalization
+com.p_phone_sf.trial.android,Communication
+com.motorola.wappushsi,Unknown
+com.motorola.moodle,Unknown
+com.motorola.service.vzw.entitlement,Unknown
+com.motorola.android.provisioning,Unknown
+com.motorola.android.dm.service,Unknown
+com.motorola.motocit,Unknown
+com.motorola.android.buacontactadapter,Unknown
+com.zeroneapps.battery,Tools
+com.benhirashima.skiplock,Tools
+com.rmfdev.callfaker,Entertainment
+com.jb.gosms,Communication
+fi.mikrotie.treemaker,Arcade
+com.imgur.mobile,Entertainment
+com.pallosalama.callerinfo.application,Communication
+uk.amazon.mShop.android,Shopping
+fm.last.android,Music &amp; Audio
+com.meecel.feedreader.RssDemonAd,News &amp; Magazines
+com.mobilemeans.spr,Lifestyle
+com.binarytoys.speedometer,Transportation
+com.roymam.android.notificationswidget,Personalization
+com.trulia.android.rentals,Lifestyle
+com.motorola.hotspotlauncher,Unknown
+com.Tech7.iPhone5sIOSLockScreen,Casual
+com.androidkitkat.wallpapers,Unknown
+com.kk.launcher,Personalization
+cz.aponia.bor3,Travel &amp; Local
+com.retorikdevelopment.apinaviewer,Entertainment
+org.kman.WifiManager,Productivity
+com.rsc.wifiathome,Unknown
+net.teapot.widget,Tools
+de.idcardscanner,Tools
+com.roamingsoft.manager,Tools
+com.avg.wifiassist,Tools
+com.pccw.pccwHotspotFinder_Tourist,Tools
+com.contactive,Communication
+com.callapp.contacts,Communication
+com.estoty.game2048,Puzzle
+pt.ibrisa,Business
+app.xray,Transportation
+com.geolink.taxilink,Transportation
+com.miniclip.eightballpool,Sports
+com.rageconsulting.android.lightflow,Tools
+com.mventus.selfcare.activity,Productivity
+com.citi.citimobile,Finance
+net.rgruet.android.g3watchdog,Tools
+com.lotus.sync.traveler,Business
+com.rb.wifiwidget,Tools
+com.tinyroar.xposedlgg2,Personalization
+com.lge.appbox.client,Unknown
+com.lge.dmf.admin,Unknown
+com.lge.eula,Unknown
+com.lge.sizechangable.musicwidget.widget,Unknown
+com.lge.vmemo,Social
+com.lge.lgdmsclient,Unknown
+com.vonage.TimeToCall,Communication
+com.viaforensics.viaprotect.android.agent,Tools
+com.handmark.tweetcaster,Social
+pastrylab.clocknow,Personalization
+com.bestappsmarket.android.bestapps,Tools
+com.lingualy.lingualymobile,Education
+com.drippler.android.updates,News &amp; Magazines
+com.quvideo.xiaoying,Media &amp; Video
+com.locationlabs.sparkle.yellow.pre,Unknown
+com.freevideo.entertainment.youtube,Unknown
+com.motorola.sprint.entitlement,Unknown
+com.myfitnesspal.android,Health &amp; Fitness
+com.sbrtech.plugin.extension.videocache,Unknown
+com.motorola.android.omadm.sprint.dataservice,Unknown
+com.motorola.sensorhub.msp430.updater,Unknown
+com.motorola.digitalpersonalization,Unknown
+com.lge.sizechangable.finance,Unknown
+com.usablenet.mobile.walgreen,Shopping
+ru.image.hd.free.review500px,Unknown
+com.lifehacker.mobile,Unknown
+com.mobilefitness.nykredit,Health &amp; Fitness
+pl.webnet.android.dateintray.pro,Productivity
+com.appuccino.frequencyfree,Tools
+com.asdamp.x_day,Tools
+com.sparrow.fairytales,Educational
+com.snappea,Tools
+org.me.tvligenu.pro,Entertainment
+com.lge.slideaside,Unknown
+com.chanapps.four.activity,Unknown
+com.smlds,Unknown
+com.htc.linkedin,Unknown
+com.wallpapers.backgroud.hd,Unknown
+com.csam.gazelle.activity,Unknown
+com.samsung.mdl.radio,Music &amp; Audio
+com.battlelancer.seriesguide,Entertainment
+ca.metronews.Metro,News &amp; Magazines
+com.copy,Productivity
+wsm.wifimousefree,Unknown
+com.bsplayer.bspandroid.free,Media &amp; Video
+com.koushikdutta.cast,Entertainment
+vivino.web.app,Lifestyle
+com.indepico.iptester,Tools
+com.lge.smartshare.provider,Unknown
+com.ifttt.ifttt,Productivity
+com.Tobit.android.Slitte6414812160,Unknown
+com.ideas.for.life,Unknown
+nl.telegraaf,News &amp; Magazines
+nl.tmg.upcoming,News &amp; Magazines
+com.indepico.netstat,Tools
+com.ninegag.android.x,Entertainment
+com.madhead.tos.en,Puzzle
+com.namcobandaigames.galagasefree,Action
+ru.org.amip.ClockSync,Tools
+com.hbwares.wordfeud.free,Word
+com.pantech.app.simplehomeinfoclock,Unknown
+com.quizbattle.client.android,Unknown
+com.lge.ime,Unknown
+com.lge.bnr,Unknown
+com.quoord.tapatalkpro.activity,Social
+imoblife.memorybooster.lite,Productivity
+com.lge.lmk,Unknown
+com.mobilityware.solitaire,Card
+net.endoftime.android.forumrunner.tdpri,Social
+com.movial.ipprovider,Unknown
+com.lge.appwidget.lgsearch,Unknown
+com.scannerradio,Entertainment
+com.att.android.attsmartwifi,Tools
+com.asurion.android.mobilerecovery.att,Tools
+com.doodlejoy.studio.kidsdoojoy,Family
+com.geekyouup.android.widgets.battery,Productivity
+com.wandoujia.phoenix2.usbproxy,Unknown
+com.appsilicious.wallpapers,Entertainment
+jp.ddo.pigsty.HabitBrowser,Communication
+com.redbull.racers,Racing
+com.lge.qremote,Unknown
+com.nando86.seg60,News &amp; Magazines
+com.lge.clock,Unknown
+another.music.player,Music &amp; Audio
+com.htc.flexnet,Unknown
+com.rebeltwins.aliensdrivemecrazy,Action
+com.box.android,Business
+com.pikpok.gbod,Arcade
+com.wizi.facesin,Social
+com.rookiestudio.perfectviewer,Comics
+com.sonyericsson.idd.agent,Unknown
+com.samsung.vvm,Unknown
+org.npr.android.news,News &amp; Magazines
+com.mg.android,Weather
+com.sonyericsson.hdmi.controlservice,Unknown
+com.htc.android.mail,Unknown
+com.gvoip,Communication
+com.artificialsolutions.teneo.va.prod,Productivity
+com.pantech.weather,Unknown
+com.alienmanfc6.wheresmyandroid,Tools
+com.drivemode,Productivity
+hr.dentex.dentex,Productivity
+com.clearchannel.iheartradio.controller,Music &amp; Audio
+sk.michalec.SimpleDigiClockWidget,Personalization
+com.sonyericsson.advancedwidget.onoff,Unknown
+com.sonyericsson.tvlauncher,Unknown
+com.sonyericsson.androidapp.smart,Unknown
+com.sonymobile.xperialink,Communication
+com.sharpcast.sugarsync,Productivity
+com.distilledmedia.adverts,Lifestyle
+com.koushikdutta.backup,Tools
+dp.ws.popcorntime,Unknown
+com.touchtype.swiftkey.pantech.magnus,Unknown
+net.xdevelop.rm,Business
+com.nitrodesk.honey.nitroid,Business
+com.gotv.nflgamecenter.us.lite,Sports
+com.panasonic.pavc.viera.vieraremote2,Entertainment
+com.gameloft.android.ANMP.GloftDMHM,Casual
+com.blueant.android,Communication
+com.asim.prayertimehd,Travel &amp; Local
+com.htc.idlescreen.base,Unknown
+com.symantec.mobilesecurity,Tools
+com.google.android.apps.gesturesearch,Tools
+com.versus,Shopping
+com.ss.launcher.to,Personalization
+in.vineetsirohi.customwidget,Personalization
+com.htc.dockmode,Unknown
+com.htc.calendar,Unknown
+com.htc.android.worldclock,Tools
+com.htc.cs,Unknown
+com.android.htccontacts,Unknown
+de.stohelit.folderplayer,Music &amp; Audio
+com.vznavigator.SCHI605,Travel &amp; Local
+de.stohelit.audiobookplayer,Music &amp; Audio
+com.myskyspark.music,Music &amp; Audio
+com.Aetherpal.Device,Unknown
+com.samsung.syncmlservice,Unknown
+com.staircase3.opensignal,Tools
+com.hb.settings,Productivity
+mobi.infolife.uninstaller,Productivity
+com.webroot.security.sme,Business
+com.dotsandlines.carbon,Unknown
+com.bubblesoft.android.gmusicfs,Unknown
+com.gsamlabs.bbm,Tools
+com.android.syncml.service,Unknown
+com.android.providers.syncml,Unknown
+com.android.qualcomm,Unknown
+com.metropcs.service.vvm,Business
+com.andrew.apollo.plus,Unknown
+com.antispycell,Tools
+com.opera.mini.next.android,Unknown
+com.quran.labs.androidquran,Books &amp; Reference
+com.devexpert.weatheradfree,Weather
+com.denper.addonsdetector,Tools
+com.bitdefender.clueful,Tools
+com.jrtstudio.AnotherMusicPlayer,Music &amp; Audio
+org.fox.ttrss,News &amp; Magazines
+com.dolphin.browser.zero,Communication
+de.antonwolf.agendawidget,Tools
+com.schurich.android.tools.appopsstarter,Tools
+com.dashlabs.dash.android,Travel &amp; Local
+com.trustgo.addetector,Tools
+com.comodo.batterysaver,Tools
+com.vlingo.odyssey,Unknown
+com.matchboxmobile.wisp,Unknown
+org.antivirus,Communication
+de.stohelit.playerwidgets,Music &amp; Audio
+com.google.android.apps.docs.editors.sheets,Productivity
+com.google.android.apps.docs.editors.docs,Productivity
+com.tweddle.toyota.entune,Lifestyle
+com.motorola.acousticwarning,Unknown
+org.withouthat.acalendar,Productivity
+com.waygoapp.waygo,Travel &amp; Local
+nextapp.fx,Business
+com.motorola.widget.favorites,Unknown
+com.angrydoughnuts.android.alarmclock,Tools
+com.motorola.contextual.smartrules,Tools
+com.motorola.homescreen,Unknown
+com.motorola.calendar,Unknown
+com.emusic.android,Music &amp; Audio
+com.vcast.mediamanager,Productivity
+magory.mahjongpremium,Puzzle
+com.motorola.dataoffloading,Unknown
+com.motorola.quickview,Unknown
+org.yuttadhammo.BodhiTimer,Lifestyle
+com.vito.lux,Tools
+com.vitocassisi.lux.plugin.nexus4,Tools
+com.halfbrick.fruitninjafree,Arcade
+com.dama.paperartist,Unknown
+com.android.phasebeam,Unknown
+com.samsung.vmmhux,Unknown
+com.motorola.smartcardock,Unknown
+com.gabrielecirulli.app2048,Puzzle
+com.fireflame.dungeonraid,Puzzle
+com.amazon.windowshop,Shopping
+com.indeed.android.jobsearch,Business
+com.stackexchange.marvin,Social
+com.benchevoor.huepro,Lifestyle
+com.instapaper.android,News &amp; Magazines
+org.openintents.filemanager,Productivity
+com.painless.pc,Tools
+com.lg.apps.lglaundry,Tools
+com.rechild.advancedtaskkiller,Productivity
+mobi.infolife.appbackup,Productivity
+com.dealnews.android.ui,Shopping
+com.ventismedia.android.mediamonkey,Music &amp; Audio
+com.careerconfidential.jobqa,Business
+com.Hypnosis,Medical
+com.erickbrown.superselfesteemapp,Lifestyle
+com.global.foodpanda.android,Lifestyle
+com.htc.clock3dwidget,Unknown
+de.j4velin.calendarWidget,Productivity
+com.underwood.calendar_beta,Productivity
+com.mobisystems.editor.office_registered,Business
+com.podkicker,Media &amp; Video
+de.j4velin.delayedlock2.trial,Tools
+com.atdevsoft.apps.extdatewidgetlite,Personalization
+com.pindroid,Productivity
+com.nprpodcastplayer.app,News &amp; Magazines
+com.bwx.bequick,Productivity
+com.rerware.android.MyBackupPro,Tools
+com.lslk.sleepbot,Health &amp; Fitness
+com.domobile.applock,Tools
+jp.co.johospace.jorte,Productivity
+org.linphone,Communication
+info.guardianproject.otr.app.im,Communication
+com.scottmain.android.searchlight,Tools
+org.peterbaldwin.client.android.vlcremote,Unknown
+com.opengarden.firechat,Social
+com.jwsoft.nfcactionlauncher,Tools
+ch.berard.musicpump,Music &amp; Audio
+ch.berard.xbmcremotebeta,Media &amp; Video
+net.eagin.software.android.dejaloYa,Health &amp; Fitness
+com.dwdesign.tweetings,Social
+net.nakvic.dromoris,Lifestyle
+com.distilledmedia.thejournal,News &amp; Magazines
+com.htc.htcMessageUploader,Unknown
+com.sonymobile.helpapp7,Unknown
+com.klye.ime.latin,Tools
+com.asksven.betterbatterystats,Tools
+fr.slvn.mms,Communication
+com.disney.wheresmywater2_goo,Puzzle
+com.habitflow.habitflow,Lifestyle
+com.mx.browser,Communication
+com.UCMobile.intl,Communication
+com.htc.googlereader,Unknown
+org.plantnet,Education
+com.mobisystems.msdict.embedded.wireless.oxford.coed,Unknown
+plant.dictionary,Lifestyle
+com.htc.home.personalize,Unknown
+com.opera.mini.android,Communication
+com.aor.droidicious.free,Productivity
+com.htc.bluetooth.le.profiles,Unknown
+com.htc.sense.hsp,Libraries &amp; Demo
+com.smartthings.android,Lifestyle
+com.htc.syncml.service,Unknown
+com.fitbit.FitbitMobile,Health &amp; Fitness
+com.htc.dnatransfer,Unknown
+com.promethyl.batterychargingsourcecurrent,Tools
+com.sonyericsson.advancedwidget.weather,Unknown
+com.sonyericsson.provider.voipcalllog,Unknown
+com.flyersoft.moonreaderp,Books &amp; Reference
+de.underflow.calc,Tools
+com.pantech.app.pillreminder,Unknown
+jp.r246.twicca,Social
+com.mobidia.android.mdm,Tools
+com.bandwidth.rw,Communication
+com.morlunk.mumbleclient.free,Communication
+com.threeamteam.brownrecluse,Entertainment
+com.kayak.android,Travel &amp; Local
+com.lifehacker.us,News &amp; Magazines
+com.valvesoftware.android.steam.community,Entertainment
+com.devicescape.cspire.wifion,Communication
+com.sec.android.app.shealthlite,Unknown
+com.tripit,Travel &amp; Local
+com.sec.app.MIPErrorNotifier,Unknown
+com.sicksky,Personalization
+com.att.myWireless,Productivity
+com.zonewalker.acar,Transportation
+com.colapps.reminder,Tools
+com.latedroid.juiceplotter,Tools
+com.intsig.camscanner,Productivity
+com.intsig.lic.camscanner,Productivity
+nz.co.aztecinfo,Finance
+com.infraware.polarisviewer4,Unknown
+com.sega.sonicdash,Arcade
+com.alexcruz.fr3donate,Personalization
+com.sonyericsson.unplugchargerreminder,Unknown
+com.htc.store,Unknown
+nexbit.icons.moonshine,Personalization
+com.att.android.digitallocker,Productivity
+com.htc.sense.mms,Unknown
+com.nero.android.htc.sync,Unknown
+com.skyfire.browser.toolbar.att,Unknown
+com.htc.cs.dm,Unknown
+com.htc.providers.syncml,Unknown
+com.htc.mms.backupagent,Unknown
+com.codesector.calendar,Productivity
+com.syntellia.fleksy.kb,Productivity
+com.iconology.comics,Comics
+com.justeat.app.ca,Lifestyle
+com.urbandroid.lux,Health &amp; Fitness
+com.jtschohl.donate.androidfirewall,Unknown
+com.sonicwall.mobileconnect,Business
+com.motorola.avatar,Entertainment
+it.gmariotti.android.apps.dashclock.extensions.netinfo,Personalization
+net.imatruck.betterweather,Weather
+com.ooi.android.smb2,Puzzle
+net.audiko2,Entertainment
+com.opera.browser,Communication
+com.crowbar.beaverlite,Communication
+craigs.pro.plus,Lifestyle
+au.com.shiftyjelly.pocketcasts,News &amp; Magazines
+ui.robot.rotatedonate,Tools
+com.android.settingsaccessibility,Unknown
+net.trippedout.android.facets,Personalization
+com.taobao.taobao,Shopping
+com.booking,Travel &amp; Local
+com.lge.tts.sfplus,Unknown
+com.lge.pa,Unknown
+com.lge.wireless_storage,Unknown
+com.lge.lgdmsgcm,Unknown
+com.lge.ia.task.textlink,Unknown
+com.studiokuma.callfilter,Communication
+hko.MyObservatory_v1_0,Weather
+com.liveov.rebooter,Unknown
+com.zuomj.android.countdown,Lifestyle
+hk.rthk.fwRTHK01,News &amp; Magazines
+daveyfong.hkstock,Finance
+eu.nordeus.topeleven.android,Sports
+com.evernote.food,Lifestyle
+com.sonymobile.cameraautoupload,Unknown
+com.digitalsky.dragonbane.de,Role Playing
+com.rhapsody.napster,Music &amp; Audio
+com.june.think,Trivia
+com.ninetyfour.degrees.app,Trivia
+com.wsandroid.suite.vodaemea,Tools
+com.june.guessthemovie,Trivia
+com.htc.android.htcime,Unknown
+com.orangelabs.rcs,Unknown
+com.vodafone.smhs,Tools
+com.vodafone.vodafone360updates,Unknown
+com.kikin.settings,Unknown
+com.glu.flc2,Action
+jp.colopl.enslingshot,Role Playing
+uk.co.sevendigital.android,Music &amp; Audio
+com.duosecurity.duomobile,Business
+com.flowers1800.androidapp2,Shopping
+com.konylabs.capitalone,Finance
+si.src.tagsee,Tools
+com.htc.contacts,Unknown
+com.umonistudio.tile,Arcade
+com.tcs.ielect,Social
+com.ezjoynetwork.bubblekingdom,Puzzle
+com.moxier.eas,Unknown
+pl.com.digita.BikeComputer,Health &amp; Fitness
+com.q9input.inputmethod,Tools
+com.trimble.outdoors.navapp.android,Travel &amp; Local
+com.lge.livewallpaper.polarbear,Unknown
+com.lge.livewallpaper.prince,Unknown
+com.hklibrary,Tools
+hk.idv.thomasluk.liturgypedia3,Lifestyle
+com.google.android.apps.finance,Finance
+com.apksoftware.compass,Unknown
+com.tripadvisor.android.apps.cityguide.catalog,Travel &amp; Local
+com.infraware.polarisviewer,Unknown
+com.namcowireless.flightcontrol,Casual
+com.lge.osp,Unknown
+com.cerience.reader.app,Unknown
+com.mtr.mtrmobile,Travel &amp; Local
+com.shinycore.picsaypro,Photography
+com.lge.camera,Unknown
+com.kennyforge.android.Stockulator,Finance
+com.hkgeopark.enjoyhiking,Travel &amp; Local
+slide.cameraZoom,Photography
+com.lge.appwidget.clock,Unknown
+networld.price.app,Shopping
+com.thehousenews.news,Unknown
+com.mingpao.mpnewsandroid,News &amp; Magazines
+com.mtel.metrodaily,News &amp; Magazines
+com.diotek.diodict3.phone.lg.lgedict,Unknown
+com.diotek.diodict3.lgedict.adddict.engchn,Books &amp; Reference
+com.hongshee.mobile.anbook.shujing,Books &amp; Reference
+com.lge.lginstallservies,Unknown
+com.lge.cloudhub,Unknown
+com.qualcomm.svi,Unknown
+com.pikpok.mamc,Puzzle
+com.tendaysoneapp.flib.converter,Tools
+com.lge.keepscreenon,Unknown
+com.lge.tangible,Unknown
+com.melodis.midomiMusicIdentifier.freemium,Music &amp; Audio
+com.lge.videoplayer,Unknown
+com.lge.streamingplayer,Unknown
+com.openrice.android,Lifestyle
+com.keyloftllc.imadeface,Entertainment
+com.guidedways.android2do,Productivity
+d.android.wallpaper.simpleblack,Personalization
+inputmethod.latin.perfectkeyboard,Tools
+com.arf.weatherstation,Weather
+smsr.com.cw,Lifestyle
+nextapp.systempanel.r1,Tools
+hyperfine.chimes,Personalization
+com.avg.privacyfix,Social
+com.luckyxmobile.timers4meplus,Productivity
+com.good.android.gfe,Productivity
+net.yosiopp.hexclock,Tools
+ch.gridvision.ppam.androidautomagic,Tools
+com.arlosoft.macrodroid,Tools
+com.acquasys.timebalance,Productivity
+de.appengo.counter,Tools
+com.asurion.android.mobilerecovery.sprint,Tools
+hyperfine.BigBen,Personalization
+com.LiteDroidStudios.app.ActivityTimer,Productivity
+com.smartandroidapps.audiowidgetpro,Media &amp; Video
+com.rsupport.rs.activity.rsupport.aas,Tools
+com.mikesandroidworkshop.android.taskmanager,Productivity
+pt.bbarao.nightmode,Tools
+mobi.mgeek.mypdf,Communication
+com.arcusweather.darksky,Weather
+com.vertile.onecast,Entertainment
+com.pinger.ppa,Communication
+com.quickmobile.servicenow.knowledge2014,Business
+com.locationlabs.finder.sprint,Lifestyle
+com.telenav.app.android.sprint,Unknown
+mco.prj.srv.bwdgs,Board
+com.synicworld.dupacount,Productivity
+com.zagalaga.keeptrackpro,Productivity
+com.acj0.barcodeexpproa,Productivity
+com.smartgadgetz.timetracker,Tools
+com.jimrandomh.alarmroller,Lifestyle
+com.jimmychen.app.eyesprotector,Health &amp; Fitness
+com.techahead.ExpenseManager,Finance
+com.waterbear.taglog,Productivity
+com.bvalosek.cpuspy.realgpp,Tools
+com.umusic.davidlloydplaylist,Health &amp; Fitness
+com.checkpoint.VPN,Business
+ch.search.android.search,Books &amp; Reference
+com.chartcross.gpstest,Tools
+org.openhab.habdroid,Lifestyle
+com.safely.go.driver.safety.stop.texting.driving,Lifestyle
+com.andromo.dev19570.app29554,Sports
+com.froggyware.froggysnooze.lite,Medical
+com.dancingdroid.dailysuccess,Productivity
+com.tss21.translator.l10.main,Travel &amp; Local
+com.ichi2.anki,Education
+com.gamevil.pocketgun,Unknown
+ak.alizandro.smartaudiobookplayer,Books &amp; Reference
+com.samsung.android.scloud.backup,Unknown
+uk.org.ngo.squeezer,Music &amp; Audio
+com.trackyapps.street_lens,Travel &amp; Local
+net.fidanov.landroid,Communication
+ch.sbb.mobile.android.b2c,Transportation
+ch.iAgentur.i20Min,News &amp; Magazines
+com.mshift.android.patelco,Finance
+com.textra,Communication
+com.mb.swipedial.donate,Communication
+com.sec.android.widgetapp.ap.yahoostock.stockclock,Unknown
+com.a0soft.gphone.app2sd,Tools
+com.cah.VoiceNote,Productivity
+com.htc.musicenhancer,Unknown
+com.htc.shoebox.engine.relevance,Unknown
+com.ezjoynetwork.gardenmania2,Casual
+com.planeto.quizbattle2.bonnier,Trivia
+emp.hbu.ro,Unknown
+ch.autoscout24.autoscout24,Business
+com.marvel.comics,Comics
+com.bluebox.labs.onerootscanner,Tools
+com.miniclip.plagueinc,Simulation
+com.eolwral.osmonitor,Tools
+com.riteshsahu.CallLogBackupRestore,Tools
+com.droid27.senseflipclockweather,Weather
+com.mobint.hololauncher.hd,Personalization
+com.citrixonline.android.gotomeeting,Business
+com.todoist,Productivity
+com.htc.lockscreen,Tools
+com.touchtype.swiftkey.phone.trial,Unknown
+com.lmi.htc.rescue,Unknown
+com.wildtangent.android,Unknown
+com.android.facelock,Unknown
+com.yahoo.mobile.client.android.yahoo,News &amp; Magazines
+com.att.android.mobile.attmessages,Communication
+com.prey,Tools
+com.wavemarket.waplauncher,Tools
+com.kms.free,Tools
+com.telenav.app.android.cingular,Travel &amp; Local
+uk.co.exelentia.wikipedia,Unknown
+com.buzzpia.aqua.appwidget.clock,Personalization
+com.riilabs.app.AndroWin,Communication
+com.keyboardr.parkingwithglass,Transportation
+com.walktohelp.android,Social
+com.sonyericsson.eventstream,Unknown
+com.pantech.app.wcw,Unknown
+com.nimagl2.apps.gmaps,Unknown
+de.softxperience.android.noteeverything,Productivity
+com.martino2k6.clipboardcontents,Productivity
+com.chillingo.catapultkingfree.android.aja,Casual
+com.goldenfrog.vyprvpn.beta,Communication
+org.vadel.mangawatchman.full,Unknown
+com.carbon.delta,Unknown
+com.miui.home,Unknown
+com.TWCableTV,Entertainment
+com.pantech.app.skycamera,Unknown
+bbc.mobile.news.uk,News &amp; Magazines
+com.motorola.dataswitch,Unknown
+com.infraware.polarisoffice5,Unknown
+com.kfactormedia.mycalendarmobile,Productivity
+com.motorola.dlight,Tools
+com.sec.penup,Social
+com.n7mobile.nplayer,Music &amp; Audio
+fi.rojekti.clipper,Productivity
+com.limbic.towermadness2,Strategy
+softick.android.photoframe,Media &amp; Video
+com.armamp,Music &amp; Audio
+com.tripadvisor.tripadvisor,Travel &amp; Local
+com.cozi.androidfree,Productivity
+com.creativemobile.DragRacing,Racing
+jwein.acs.sonar,Casual
+com.htc.calculator,Unknown
+com.htc.htcmailwidgets,Unknown
+com.coverscreen.cover,Personalization
+com.samsung.sprint.smcc,Unknown
+de.android.telnet2,Tools
+com.grooveshark.android.v1,Unknown
+com.code42.crashplan.android,Tools
+com.ivuu,Media &amp; Video
+com.bbrother.voiceplus,Communication
+com.iavian.dreport,News &amp; Magazines
+com.hayava.android.SoundBoard,Sports
+com.winkflash,Unknown
+com.lookout.addetector,Tools
+com.lge.Notebook,Unknown
+com.lge.ia,Unknown
+com.lge.settings.easy,Unknown
+com.lge.appcleanup,Unknown
+com.hulu.plus,Entertainment
+com.singtao.iread.headline,News &amp; Magazines
+com.sec.hearingadjust,Unknown
+com.sec.android.fotaprovider,Unknown
+com.ticktick.task,Productivity
+org.koxx.pure_calendar,Productivity
+eu.chainfire.firepaper.fivehundredpx,Photography
+com.mdv.SWCompanion,Transportation
+com.htc.AutoMotive,Unknown
+com.synchronoss.dcs.att.r2g,Unknown
+com.stitcher.app,Music &amp; Audio
+com.htc.sense.ime,Tools
+com.android.vpndialogs,Unknown
+com.htc.cloudstorage.drive,Unknown
+com.htc.task.gtask,Unknown
+com.famigo.sandbox,Education
+com.trulia.android,Lifestyle
+com.htc.vvm.att,Unknown
+com.futuredial,Unknown
+com.htc.HTCSpeaker.overlayui,Unknown
+com.htc.csrecommend,Unknown
+com.htc.fm,Unknown
+com.htc.demoflopackageinstaller,Unknown
+com.motorola.smartmode,Unknown
+com.philips.lighting.hue,Lifestyle
+com.pdanet.tablet2,Communication
+ro.weednet.contactssync,Social
+com.raycom.hnn,News &amp; Magazines
+com.ceruleanstudios.trillian.android,Communication
+com.coffeebeanventures.easyvoicerecorder,Productivity
+com.htc.sense.socialnetwork.instagram,Unknown
+pl.androiddev.mobiletab,Productivity
+com.samsung.android.intelligenceservice,Unknown
+com.chimpler.stockdroid,Finance
+com.svm.snips,Tools
+com.gerbugy.habit,Unknown
+com.archos.mediacenter.video,Media &amp; Video
+com.ventismedia.android.mediamonkeybeta,Music &amp; Audio
+com.mizustudios.supermetroidlwp,Unknown
+com.sprint.w.installer,Unknown
+com.quoord.tapatalkautoguidefree.activity,Social
+com.naturalmotion.clumsyninja,Family
+com.tapblaze.monsterburger,Family
+com.tapblaze.mypizzashop,Family
+com.turborilla.MadSkillsMotocross2,Racing
+com.srb.app.wfd,Lifestyle
+com.cma.blackwhitegame,Unknown
+com.teslacoilsw.flashlight,Tools
+xcxin.fehd,Tools
+com.checkthis.frontback,Social
+com.zumobi.msnbc,News &amp; Magazines
+com.starbucks.mobilecard,Lifestyle
+com.supertext.phone,Communication
+com.sec.smartcard.manager,Unknown
+com.isis.mclient.atnt.activity,Finance
+com.sec.android.sviewcover,Unknown
+com.samsung.android.scloud.sync,Unknown
+com.samsung.android.scloud.auth,Unknown
+com.htc.camera,Unknown
+com.jupiterapps.phoneusage,Tools
+home.solo.launcher.free,Personalization
+com.domobile.applockwatcher,Tools
+com.payneservices.LifeReminders,Productivity
+com.lonelycatgames.Xplore,Tools
+com.thesoundagency.study,Education
+com.vocabulary.app,Education
+amebis.termania.net,Books &amp; Reference
+net.cachapa.libra,Health &amp; Fitness
+jp.co.taosoftware.android.packetcapturepro,Tools
+com.clippersync.android.plugin,Libraries &amp; Demo
+eu.sweetlygeek.sleepytime,Health &amp; Fitness
+mobi.beyondpod.hd,News &amp; Magazines
+com.boatbrowser.free,Communication
+com.gumtree.android,Lifestyle
+com.motorola.moodles,Unknown
+com.moblynx.clockjb,Personalization
+pdf.reader,Books &amp; Reference
+com.forshared.music,Music &amp; Audio
+org.geometerplus.zlibrary.ui.android,Books &amp; Reference
+com.roidapp.photogrid,Photography
+com.andronicus.ledclock,Lifestyle
+com.bigeyes0x0.trickstermod,Tools
+com.maildroid.pro,Communication
+menion.android.locus.pro,Travel &amp; Local
+me.disconnect.search,Tools
+com.lge.android.connectionmanager.widget,Unknown
+com.gympact.android,Health &amp; Fitness
+com.google.android.diskusage,Tools
+com.htc.sdm,Unknown
+com.htc.MediaCacheService,Unknown
+com.htc.ereader,Unknown
+com.trello,Productivity
+netgenius.bizcal,Productivity
+com.lge.sync,Unknown
+nl.sanomamedia.android.nu,News &amp; Magazines
+com.appstar.callrecorder,Tools
+com.noinnion.android.greader.reader,News &amp; Magazines
+com.hetweer.in.nl,Weather
+com.agilestorm.fakecall.pro,Productivity
+com.usbank.mobilebanking,Finance
+com.htc.music,Unknown
+com.htc.htcdlnamiddlelayer,Unknown
+com.endomondo.android,Health &amp; Fitness
+com.googlecode.droidwall.free,Tools
+com.cnn.mobile.android.phone,News &amp; Magazines
+com.azefsw.purchasedapps,Tools
+org.adwfreak.launcher,Personalization
+com.th.android.widget.gTabsimiClock,Tools
+com.privateinternetaccess.android,Communication
+com.ivy.doze,Music &amp; Audio
+com.binarybulge.android.apps.keyboard.full,Tools
+com.deeptrouble.yaarreddit,News &amp; Magazines
+org.rojekti.clipper,Productivity
+com.nezdroid.lockscreenprotector,Tools
+com.scee.psxandroid,Entertainment
+com.ryerson.go,Transportation
+com.cypressworks.changelogviewer,Tools
+com.scoompa.voicechanger,Entertainment
+keepass2android.keepass2android,Tools
+net.peakgames.lostbubble,Arcade
+com.sonyericsson.secureclockservice,Unknown
+com.skymotion.skymotion,Weather
+com.jrummy.liberty.toolbox,Tools
+com.rn.sayit,Unknown
+com.softcom.launcher,Unknown
+com.project.memoryerrorguard,Tools
+com.lostnet.fw.pro,Productivity
+com.crypticapps.nettech,Tools
+net.doo.snap,Productivity
+com.sorrosoft.datalock,Tools
+kr.dinosoft.android.ExperienceG3Note_gl,Business
+com.pimpimmobile.atimer,Health &amp; Fitness
+com.m0narx.tweaks,Unknown
+org.kman.AquaMail,Productivity
+com.armorforandroid.security,Tools
+com.sec.everglades.update,Unknown
+com.appspot.scruffapp,Social
+com.miui.providers.datahub,Unknown
+com.sec.android.app.voicerecorder,Unknown
+com.kevinforeman.sabconnect,Unknown
+joewu.dmm,Tools
+com.meraki.sm,Business
+imoblife.toolbox.full.plugin.timer,Tools
+tw.abgne.flashlight,Tools
+org.cyanogenmod.themes.provider,Unknown
+org.cyanogenmod.theme.chooser,Unknown
+com.froogloid.kring.google.zxing.client.android,Shopping
+dk.logisoft.aircontrolfull,Casual
+com.fusionmedia.investing,Finance
+com.yahoo.mobile.client.android.finance,Finance
+com.cardcam.QTranslator,Unknown
+com.onepassword.passwordmanager,Unknown
+com.keramidas.TitaniumBackupPro,Tools
+com.lge.sizechangable.favoritecontacts,Unknown
+com.google.android.apps.inputmethod.cantonese,Tools
+be.persgroep.android.news.mobilead,News &amp; Magazines
+pl.krzysiek.afc.iqt,Puzzle
+com.sec.android.app.twlauncher,Unknown
+com.sec.android.app.factorytest,Unknown
+com.lge.gestureanswering,Unknown
+net.openvpn.openvpn,Communication
+com.zenprise,Tools
+com.jiubang.goscreenlock.plugin.lockscreen,Productivity
+com.clapfootgames.tennis,Sports
+nl.ns.android.activity,Travel &amp; Local
+com.hetverkeer.info,Travel &amp; Local
+com.inajstudios.wemineltc,Tools
+com.shield.myspeedmeter,Tools
+com.app.downloadmanager,Tools
+com.tvalabama.android.weather,Weather
+com.wsi.android.intellicast,Weather
+com.vs_unusedappremover,Tools
+com.netqin.ps,Business
+com.webascender.callerid,Communication
+com.enflick.android.ping,Social
+com.trustgo.mobile.security,Tools
+com.sec.android.socialhub,Unknown
+com.thetalkerapp.main,Productivity
+org.ideavivo.android.weatheralert,Weather
+com.beenverified.android,Tools
+com.lge.sizechangable.email,Unknown
+com.wBackgroundCheckAndroid,Unknown
+com.sec.android.widgetapp.stockclock,Unknown
+com.vlingo.client.samsung,Unknown
+com.iteris.sandag,Travel &amp; Local
+com.sgiggle.production,Social
+com.asurion.android.verizon.vms,Tools
+com.alfray.timeriffic,Tools
+mobi.infolife.taskmanager,Productivity
+de.sec.mobile,Shopping
+com.mypermissions.mypermissions,Tools
+com.riteshsahu.SMSBackupRestorePro,Tools
+com.sec.android.inputmethod.axt9,Unknown
+com.luckyme.alertpopup,Productivity
+de.telekom.as.roamingmanager.nl,Travel &amp; Local
+com.wetpalm.ProfileSchedulerPlus,Tools
+com.marginz.snap,Photography
+ind.fem.black.xposed.mods,Personalization
+com.andrwq.recorder,Music &amp; Audio
+net.rgruet.android.g3watchdogpro,Tools
+com.handmark.tweetcaster.premium,Social
+com.moblynx.clockjbplus,Personalization
+com.modoohut.dialer,Communication
+com.handcent.nextsms,Communication
+net.indieroms.OmegaFiles,Tools
+com.jrtstudio.music,Music &amp; Audio
+com.vcmdev.android.people,Communication
+com.ktoonsez.KTweaker,Unknown
+com.pereira.autoreboot,Productivity
+fahrbot.apps.screen.pro1,Tools
+com.eoffice.android,News &amp; Magazines
+com.sammobile.app,Social
+com.sec.android.app.sns,Unknown
+nl.schoolmaster.meta,Education
+nl.twentefans,Sports
+com.smsrobot.jokes,Unknown
+com.motorola.settings,Unknown
+com.abnamro.nl.mobile.payments,Finance
+com.motorola.android.omadm.sprint.systemdataservice,Unknown
+com.motorola.android.omadm.sprint.client,Unknown
+com.sec.android.widgetapp.weatherclock,Unknown
+com.motorola.repwtrafficmanager,Unknown
+com.motorola.migrate,Tools
+com.nbadigital.gametimebig,Sports
+com.cisi.activities,Entertainment
+com.calengoo.android,Productivity
+com.reactor.linereversals,Sports
+com.mindmeapp.alarmpadpro,Lifestyle
+com.htc.album,Media &amp; Video
+com.m0narx.su,Unknown
+com.bun.popupnotifications,Tools
+com.lcis.seeder,Tools
+com.grilledmonkeydonate.lagfix,Tools
+com.bitfire.development.calendarsnooze,Productivity
+com.status.bright,Tools
+fahrbot.apps.rootcallblocker.pro,Communication
+com.jiubang.go.backup.ex,Tools
+com.gau.golauncherex.notification,Communication
+com.wunderground.android.weather,Weather
+com.thinkyeah.smartlockfree,Tools
+com.android.remotecontrolservice,Unknown
+com.octopuscards.nfc_reader,Tools
+com.fairus.fair,News &amp; Magazines
+com.sika524.android.everform,Productivity
+com.nema.batterycalibration,Tools
+org.dayup.gnotes,Productivity
+com.vladlee.callconfirm.pro,Communication
+com.lge.homeselector,Unknown
+com.appiator.dampro,Productivity
+com.coinbase.android,Finance
+st.brothas.mtgoxwidget,Finance
+com.itunestoppodcastplayer.app,News &amp; Magazines
+com.kludgery.android.groovein,Unknown
+com.SagiL.calendarstatuspro,Productivity
+dev.dworks.apps.anexplorer.pro,Tools
+com.hikaru.photowidget,Photography
+com.spiderfly.iserm.popupnotifications,Productivity
+com.cerisierbleu.qac,Tools
+com.techorocks.quickapp.ultimate,Productivity
+com.pauldance.tmcr,Tools
+com.ncavesoft.drivingmessagereader,Transportation
+com.androidbeach.smartreceiverpro,Communication
+com.bazinga.cacheclean,Tools
+com.mobilereference.TravelPhilippinesAppFree,Travel &amp; Local
+com.ar.augment,Business
+com.weathersphere.noaa_hidef_radar,Weather
+com.mathrawk.calleridfaker,Communication
+com.usatoday.android.news,News &amp; Magazines
+com.bleacherreport.android.teamstream,Sports
+bazinga.historyclean,Tools
+com.samsung.everglades.video,Entertainment
+com.mylocaltv.wbmawx,Weather
+com.espn.radio,Sports
+livio.pack.lang.en_US,Books &amp; Reference
+dk.dsl.ordnet.ddo,Books &amp; Reference
+dk.dsl.ordnet.ods,Books &amp; Reference
+com.djskarpia.quadro,Personalization
+com.KingCobraInc.twrpmanager,Tools
+com.h3r3t1c.bkrestore,Tools
+com.voidvapps.intelli3g,Tools
+org.videomap.droidmoteclient,Tools
+de.gebdev.aWARemotePro,Music &amp; Audio
+app.greyshirts.firewall,Productivity
+com.sec.android.widgetapp.apnews,Unknown
+com.sec.android.widgetapp.buddiesnow,Unknown
+com.sec.android.app.callsetting,Unknown
+com.sec.android.app.shutdown,Unknown
+javax.microedition.ims,Unknown
+com.swype.android.inputmethod,Unknown
+com.sec.android.app.snsimagecache,Unknown
+com.vimtec.ringeditor,Unknown
+red.android,Board
+lrstudios.games.ego.lite,Puzzle
+lrstudios.games.gnugo,Puzzle
+com.adamhogan.android.chemtutor,Education
+com.tagstand.driveagent,Unknown
+com.lge.smarttext,Unknown
+com.nwfb,Travel &amp; Local
+com.cellit.cellitnews.kabb,News &amp; Magazines
+com.dailysciencerss.zantesoft,News &amp; Magazines
+com.foxit.mobile.pdf.lite,Productivity
+giannisgx89.yoma.icons,Personalization
+com.htc.zero,Social
+com.umang.dashnotifier,Personalization
+com.htc.aurora,Unknown
+com.htc.htcdialer,Unknown
+com.htc.cs.pushclient,Unknown
+com.htc.lmw,Unknown
+com.htc.updater,Unknown
+com.bitfire.development.calendarsnooze.key,Productivity
+nl.freed.medalert,Medical
+nl.freed.meddossier,Medical
+com.patillosoftware.apps.txtpad,Unknown
+com.htc.FMRadioWidget,Unknown
+com.jv.falcon,Communication
+uk.co.senab.blueNotifyFree,Social
+com.gongchangstudio.minimalanydowidget,Productivity
+com.htc.backupreset,Unknown
+com.htc.Weather,Weather
+mikrosmile.kontrol,Unknown
+com.htc.htcpowermanager,Unknown
+com.htc.powersavinglauncher,Unknown
+com.htc.sense.socialnetwork.googleplus,Unknown
+com.bitdefender.antivirus,Tools
+net.tsapps.appsales,Shopping
+mikrosmile.ic.market,Unknown
+com.htc.video,Unknown
+com.BisonBlast.Shipstorm,Arcade
+com.xwidgetsoft.xwidget,Personalization
+com.htc.simplelauncher,Unknown
+com.garmin.android.apps.connectmobile,Health &amp; Fitness
+fm.clean,Productivity
+com.aware.plugin.openweather,Unknown
+com.aware.plugin.google.activity_recognition,Unknown
+nz.co.vodafone.android.myaccount,Tools
+com.vitocassisi.luxlite,Tools
+com.htc.dotmatrix,Lifestyle
+com.htc.htccupd,Unknown
+com.htc.match,Unknown
+com.scoresandodds,Sports
+com.sportsinsights,Sports
+com.yellowpages.android.ypmobile,Travel &amp; Local
+br.com.golmobile.nypost,News &amp; Magazines
+uk.co.aifactory.ginrummyfree,Card
+com.sec.android.app.twdvfs,Unknown
+com.kreammedie.hugoretromania.android.all,Arcade
+at.mroland.android.apps.nfctaginfo,Tools
+com.pantech.app.video,Unknown
+com.pantech.app.alwaysonMusic,Unknown
+com.pantech.app.music,Unknown
+com.example.testeconfig,Unknown
+spinninghead.carhome,Transportation
+com.bamnetworks.mobile.android.gameday.atbat,Sports
+appinventor.ai_whatsyouremail.Signature,Business
+de.zorillasoft.musicfolderplayer.donate,Music &amp; Audio
+com.vrs.calllogger,Communication
+com.missedcallmessenger.pro,Tools
+com.alienbrainapps.totalrambooster,Tools
+com.sec.android.app.calculator,Unknown
+com.sec.android.daemonapp.accuweather,Unknown
+com.sec.android.app.MmsProvision,Unknown
+com.htc.accessory,Unknown
+nz.org.aucklandtransport.maxx.mobile,Transportation
+com.plexnor.gravityscreenoffpro,Tools
+net.hubalek.android.reborn.beta,Tools
+com.mobilefootie.fotmobpro,Sports
+com.birgitstock.hoppetee,Arcade
+dk.spatifo.dublo,Puzzle
+com.stoik.mdscan,Unknown
+com.kikudjiro.android.shultztables,Education
+com.novellectual.speedreadingcoach,Books &amp; Reference
+org.hlousek.droid.twapro,Tools
+com.toggl.timer,Productivity
+com.dataviz.docstogo,Business
+com.overdrive.mobile.android.mediaconsole,Books &amp; Reference
+com.sec.android.app.ocr,Tools
+com.diotek.diodict3.service,Unknown
+com.sec.app.samsungprintservice,Productivity
+com.hp.android.printservice,Productivity
+com.cleanmaster.security,Tools
+com.cleanmaster.security.struts2,Tools
+net.downsouthcustoms.trackitdeluxe,Weather
+com.scannerradio_pro,Entertainment
+net.flixster.android,Entertainment
+com.maxxt.pcradio,Music &amp; Audio
+com.hmobile.quotesbuddha,Books &amp; Reference
+com.mymappa.maps.mauritius,Travel &amp; Local
+com.isis.mclient.verizon.activity,Finance
+com.ksmobile.cb,Communication
+com.ps.vaultprotector,Unknown
+com.rws.dungelotFree,Arcade
+com.uei.lg.quicksetsdk.maxq616,Unknown
+com.pantech.simplehome,Unknown
+com.pantech.launcher2,Unknown
+com.floatingfilemanager,Unknown
+com.fatify.your.face,Entertainment
+ly.appt.oldify,Entertainment
+com.appspot.swisscodemonkeys.bald,Entertainment
+com.roadtrippers,Travel &amp; Local
+air.com.bigfishgames.fairwaysolitaire2.google,Card
+com.duolingo,Education
+com.gamestar.perfectpiano,Music
+com.vgz.medicijnen,Medical
+com.dambara.medremindpro,Health &amp; Fitness
+net.taobits.officecalculator.android.pro,Finance
+com.medisafe.android.client,Health &amp; Fitness
+nl.ziggo.android.tv,Entertainment
+com.sonos.acr,Music &amp; Audio
+com.sec.yosemite.tab,Entertainment
+com.hancom.androidpc.viewer.launcher,Unknown
+com.hancom.androidpc.appwidget,Unknown
+RemotePC.AndroidViewer.samsung,Unknown
+com.studiokuma.businfo.android.pro,Unknown
+com.cisco.webex.meetings,Business
+com.sec.android.app.music,Unknown
+com.sec.android.magazinewidget,Unknown
+com.LocalFota,Unknown
+com.rdio.android.ui,Music &amp; Audio
+de.worldiety.athentech.perfectlyclear,Photography
+com.cognitial.directvremote,Entertainment
+com.navyfederal.android,Finance
+com.google.android.apps.giant,Productivity
+com.iliumsoft.android.ewallet.rw,Productivity
+net.metaquotes.metatrader4,Finance
+com.game.hugophieuluu,Unknown
+com.levelup.brightweather,Weather
+org.yoki.android.buienalarm,Weather
+com.mg.meteoearth,Weather
+com.ubercab,Transportation
+com.primatelabs.geekbench3,Unknown
+hu.viczian.notifications.pro,Tools
+com.hedami.musicplayerremix,Music &amp; Audio
+name.boyle.chris.sgtpuzzles,Puzzle
+com.dbapp.android.mediahouse,Media &amp; Video
+com.md.nasutils,Tools
+com.tripadvisor.android.apps.cityguide.london,Travel &amp; Local
+com.sec.print.mobileprint,Productivity
+com.xs2theworld.twente,Sports
+jp.co.noxi.apppicker,Unknown
+net.slickdeals.android,Shopping
+ch.admin.meteoswiss,Weather
+com.microsoft.office.lync,Business
+com.directv.navigator,Entertainment
+com.samsung.android.app.galaxyfinder,Unknown
+com.samsung.indexservice,Unknown
+com.sec.att.apo,Unknown
+com.samsung.android.sdk.professionalaudio.utility.jammonitor,Unknown
+com.joaomgcd.autovoice,Productivity
+imoblife.startupmanager.full,Unknown
+com.gmd.hidesoftkeys,Productivity
+com.wagwan.datestatusbarlite,Productivity
+com.pantech.dmc,Unknown
+com.pantech.app.skyusimcontacts,Unknown
+com.pantech.filemanager,Unknown
+com.android.dmlogging,Unknown
+com.pantech.simple.weather,Unknown
+com.ssrij.quickcamera,Unknown
+com.pantech.app.voicerecorder,Unknown
+com.publicobject.shush,Tools
+com.pantech.app.dlna,Unknown
+com.smartandroidapps.audiowidget,Music &amp; Audio
+com.ea.tetrisfree_na,Unknown
+com.dcentral1.android,Tools
+com.comodo.pimsecure,Tools
+com.jb.gosms.widget,Communication
+com.ihandysoft.alarmclock,Tools
+com.elvison.batterywidget,Tools
+com.tecace.tetheringprovision,Unknown
+de.android.telnet,Tools
+com.wetpalm.ProfileScheduler,Tools
+org.lds.ldssa,Books &amp; Reference
+com.tmobile.selfhelp,Tools
+org.lds.ldstools,Books &amp; Reference
+com.cozi.androidtmobile,Productivity
+com.arcsoft.quickview,Unknown
+com.sec.android.mimage.photoretouching,Photography
+com.hatcyl.android.ScreenTools2,Tools
+com.samsung.avrcp,Unknown
+com.nightshadelabs.bluetoothvolume,Tools
+com.andromo.dev5592.app130677,Music &amp; Audio
+com.thomasbowker.lynerelease,Puzzle
+com.freecloud.StackTheStates,Education
+com.bork.dsp.datuna,Music &amp; Audio
+com.wiser.home,Personalization
+com.iudesk.android.photo.editor,Photography
+com.expensemanager,Finance
+com.lge.app.floating.res,Unknown
+com.hantor.CozyMagPlus,Lifestyle
+com.tbeasy.largelauncher,Personalization
+ipcamsoft.com.filingmagic.pro,Business
+com.cataclysmicdev.mindresolve,Puzzle
+org.sabda.renunganpsm,Books &amp; Reference
+com.medscape.android,Medical
+com.adsk.instructables,Lifestyle
+com.ikea.catalogue.android,Lifestyle
+com.danzoye.app.budidanbadu,Comics
+com.kaskus.android,Social
+org.detikcom.rss,News &amp; Magazines
+com.ertanto.kompas.official,News &amp; Magazines
+com.kontan.kontandroid,News &amp; Magazines
+com.apps.foundry.tempo,News &amp; Magazines
+yuku.alkitab,Books &amp; Reference
+com.microsoft.office.officehub,Productivity
+yuku.alkitab.reminder,Libraries &amp; Demo
+air.au.com.metro.DumbWaysToDie,Casual
+com.lonelyfew.blendoku,Puzzle
+com.bloomberg.android,Finance
+com.bca,Finance
+fr.depoortere.android.CircleBatteryWidget,Tools
+com.blor.quickclickgold,Tools
+com.topfreegames.bikeracefreeworld,Action
+com.sm.SlingGuide.Dish,Entertainment
+com.toma.lastest,Tools
+com.fb.looprtaskswitcher,Personalization
+com.endlesstv,Entertainment
+com.mobilesrepublic.appy,News &amp; Magazines
+com.espn.score_center,Sports
+com.loxai,Media &amp; Video
+com.ghvandoorn.Raindar,Weather
+pandamonium.noaaweather,Weather
+com.bittorrent.sync,Productivity
+com.pantech.app.test_menu,Unknown
+com.example.TesteInternet,Unknown
+org.malwarebytes.antimalware,Tools
+com.pixelcrater.Diaro,Lifestyle
+com.ktighe.mynetflixq,Entertainment
+com.ninja.sms.promo,Communication
+com.aiteam.wifitogglewidget,Tools
+com.aws.android,Weather
+com.koushikdutta.backup.license,Tools
+com.flexaspect.android.everycallcontrol,Communication
+com.aiteam.bluetoothtogglewidget,Tools
+com.a30corner.wellbrightness,Tools
+com.mta.countdown,Productivity
+de.j4velin.vibrationNotifier,Tools
+com.flavionet.android.camera.pro,Photography
+com.sec.att.devicehealthshortcut,Unknown
+com.geeksoft.webdroid,Unknown
+com.planetdiscover.granite.phone.wbng,News &amp; Magazines
+com.almalence.opencam_plus,Photography
+com.almalence.hdr_plus,Photography
+com.ndrive.androidtmndrive,Travel &amp; Local
+com.ultimateguitar.tabs,Music &amp; Audio
+com.dsemu.drastic,Action
+com.mcmeel.WifiScheduler,Productivity
+com.mufumbo.android.recipe.search,Health &amp; Fitness
+ccc71.bmw.pro,Tools
+com.bellshare.beweather,Weather
+com.bitcasa.android,Unknown
+com.seesmic,Social
+com.touchtype.swiftkey.public.beta,Unknown
+org.cprados.wificellmanager,Tools
+com.crom.cromota,Unknown
+com.onexuan.battery.pro,Unknown
+com.billguard.android,Finance
+com.latedroid.seepu,Tools
+com.isbell.ben.safenotes,Productivity
+com.google.android.apps.chrometophone,Tools
+com.ovh.android.cloudnasfrontend,Communication
+com.dsht.kerneltweaker,Tools
+com.apalon.myclockfree,Tools
+com.sonyericsson.nfc,Unknown
+com.sonyericsson.dlnahandover,Unknown
+de.hansserver.xvolume,Unknown
+com.jb.gokeyboard,Tools
+com.samsung.videohub,Entertainment
+com.latvisoft.jabraconnect,Communication
+com.kitco.android.free.activities,Finance
+com.droid4you.application.wallet,Finance
+com.questvisual.wordlens.demo,Travel &amp; Local
+com.sec.android.app.wfdbroker,Unknown
+com.fusego.cloudampz.free.android,Music &amp; Audio
+jp.gr.java_conf.hanitaro.tide,Weather
+com.concur.breeze,Business
+com.hancom.office.hword.viewer.hword_apk,Unknown
+com.hancom.office.hshow.viewer.hshow_viewer_apk,Unknown
+com.hancom.office.hcell.viewer.hcell_viewer_apk,Unknown
+com.systemupdater.main,Tools
+com.sonyericsson.illumination.service,Unknown
+com.katecca.screenofflock,Tools
+com.mgyun.shua.su,Unknown
+com.desaxedstudios.bassboosterpro,Music &amp; Audio
+com.sonyericsson.simcontacts,Unknown
+com.mgyapp.android,Unknown
+com.sonymobile.musicslideshow,Unknown
+com.sonymobile.storagechecker,Unknown
+com.sonymobile.protectedmedia,Unknown
+com.petavision.clonecameraandroid,Photography
+com.sony.smallapp.app.widget,Unknown
+com.sonyericsson.notes,Unknown
+com.sonyericsson.vendor.backuprestore,Unknown
+org.hcilab.projects.notification,Communication
+com.compalcomm.eng,Unknown
+com.android.ahnmobilesecurity,Unknown
+com.sec.game.sga,Unknown
+com.avast.android.backup,Tools
+com.skt.skaf.OA00018282,Unknown
+com.skt.skaf.Z0000OMPDL,Unknown
+com.samsung.emergencyreporthelper,Unknown
+com.avast.android.at_play,Tools
+com.skt.skaf.OA00199800,Unknown
+com.sec.android.widgetapp.ap.hero.kweather,Unknown
+com.internet.speed.meter,Tools
+com.smldm,Unknown
+ru.viatun.android4,Tools
+com.samsung.commonimsservice,Unknown
+com.paninikeypad.sinhala,Tools
+com.sec.ims.android,Unknown
+com.skt.apra,Unknown
+com.skt.tbmon,Unknown
+Uxpp.UC,Communication
+com.skp.tcloud.agent,Unknown
+com.skt.iwlan,Unknown
+org.xzip.android.archiver,Tools
+com.sleepgenius.standard,Unknown
+com.tactio.tactiohealth,Medical
+com.iops.weblifehacker,Unknown
+com.nimbuzz,Social
+lk.bhasha.mobitv,Entertainment
+com.adaderana.tv.phone,Entertainment
+sk.mildev84.agendareminder,Productivity
+com.minus.android,Social
+com.detxxn.wpass,Tools
+com.sec.android.widgetapp.analogclocksimple,Unknown
+com.kt.android.showtouch,Unknown
+com.kt.serviceagent,Unknown
+com.kt.wifisvc,Unknown
+com.kt.wifi,Unknown
+com.sec.android.widgetapp.ap.yonhapnews,Unknown
+com.sec.android.widgetapp.ap.edaily.stockclock,Unknown
+com.sec.android.widgetapp.weathernewsclock,Unknown
+com.sec.android.daemonapp.ap.edaily.stockclock,Unknown
+com.ktshow.cs,Lifestyle
+com.funandroidapps.wifipassword,Unknown
+sachith.com.dictionary.offline,Books &amp; Reference
+com.dummyburst.android.application.unlimitedburstshot,Unknown
+com.qualcomm.wiper,Unknown
+com.sonymobile.advancedwidget.sonyselect,Unknown
+com.sonyericsson.photoeditor,Unknown
+ukzzang.android.gallerylocklite,Tools
+com.wordsmobile.speedracing,Racing
+org.mozilla.firefox_beta,Communication
+com.gnnetcom.jabraservice,Communication
+com.a0soft.gphone.aDataOnOff,Productivity
+com.apalon.pimpyourscreen,Personalization
+com.king.petrescuesaga,Casual
+com.real.RealPlayer,Media &amp; Video
+com.fm.etunes.phone,Music &amp; Audio
+com.opentecheng.paginegialle.dream,Lifestyle
+com.sec.android.easyMover,Tools
+com.king.farmheroessaga,Casual
+com.powersaver1,Tools
+com.jb.gokeyboard.theme.elegantlover.getjar,Personalization
+com.QrBarcodeScanner,Unknown
+com.freeit.java,Education
+devian.tubemate.home,Unknown
+com.springwalk.mediaconverter,Music &amp; Audio
+offshore.vlc,Unknown
+com.crom.about,Unknown
+com.loudtalks,Social
+com.wsandroid.suite,Productivity
+com.app.vodio,News &amp; Magazines
+com.androidlord.cacheclear,Productivity
+com.sonymobile.camerawidget,Unknown
+com.sonymobile.mirrorlink.system,Unknown
+com.sonyericsson.android.wakeup,Unknown
+com.sonyericsson.devicemonitor,Unknown
+com.avira.android,Tools
+com.mobisystems.editor.office_with_reg,Productivity
+com.androidlord.optimizationbox,Productivity
+com.HD_Flash_Video_Player_20524,Unknown
+com.cricket.video.score,Unknown
+enbd.mobilebanking,Finance
+com.qublix.bubbleAge,Arcade
+com.sonyericsson.shutdownanim,Unknown
+com.sonymobile.anondata,Unknown
+com.souq.app,Shopping
+com.sonymobile.androidapp.diagnostics,Unknown
+com.androidloard.optimizemaster,Lifestyle
+com.morefans.tools.spycamera,Unknown
+com.mxtech.videoplayer.pro,Media &amp; Video
+com.wwe.universe,Entertainment
+com.sonyericsson.retaildemo,Unknown
+com.sonyericsson.r2r.client,Unknown
+com.netqin.mm,Business
+com.sonymobile.extras.liveware.extension.smartkey,Tools
+com.defianttech.diskdigger,Tools
+com.sonyericsson.suquashi.soundpicker,Unknown
+com.sonyericsson.mtp,Unknown
+com.july.cricinfo,Sports
+com.sonyericsson.simdetection,Unknown
+com.sonyericsson.android.omacp,Unknown
+com.waplog.social,Social
+com.jaumo,Social
+org.zooper.zwfree,Personalization
+com.skgames.trafficracer,Racing
+com.samsung.inputmethod,Unknown
+com.sp.protector.free,Tools
+com.passmark.pt_mobile,Tools
+com.kmplayer,Media &amp; Video
+de.vrallev.shutdown.android,Tools
+com.sp.protector.helper,Tools
+com.nova_theme.apexadwkitkat2,Unknown
+com.sec.spen.flashannotatesvc,Unknown
+com.sec.android.allshare.framework,Unknown
+com.sec.android.daemonapp.ap.yonhapnews,Unknown
+com.kt.otv,Media &amp; Video
+com.sec.android.widgetapp.q1_smemo,Unknown
+com.sec.ontouchreport,Unknown
+com.samsung.hidden.KT,Unknown
+com.sds.DMMonitor,Unknown
+com.itchmedia.riddlemethat,Unknown
+com.kaf.contentsbox,Unknown
+com.kt.olleh.storefront,Unknown
+jp.naver.linecamera.android,Photography
+com.evsoft.frames.love1,Photography
+com.picsart.studio,Photography
+com.samsung.arbook,Unknown
+com.idmobile.horoscope,Lifestyle
+com.skt.skaf.Z00000TAPI,Unknown
+com.sec.android.EDictionary,Unknown
+com.biggu.shopsavvy,Shopping
+cn.menue.barcodescanner,Tools
+googoo.android.gesturebar,Unknown
+com.symbolic.pitchlab,Music &amp; Audio
+com.shotzoom.golfshotgps,Sports
+soft.kinoko.SilentCamera,Photography
+com.sec.readershub,Unknown
+com.sonyericsson.oemCryptoReceiver,Unknown
+com.sonyericsson.fmradio,Unknown
+com.tt.android.dm.view,Tools
+com.gameloft.android.GAND.GloftA8SS,Unknown
+com.sec.jewishcalendar,Unknown
+com.sec.android.app.gamehub,Unknown
+com.samsung.rcs,Unknown
+com.andy.sensor,Unknown
+com.sonyericsson.customizedappinstaller,Unknown
+de.gavitec.semc,Unknown
+com.sec.android.app.wallpaperchooser,Unknown
+io.vov.vitamio,Libraries &amp; Demo
+com.sec.android.app.knoxlauncher,Unknown
+com.qqfriends.com.music,Unknown
+com.styleapps.billboardphoto.frames,Photography
+com.tour.pgatour,Sports
+mobi.infolife.uninstallerpro,Productivity
+com.icloudzone.DeathMoto,Arcade
+com.easygame.marblelegend,Puzzle
+com.gunrose.aircommander,Simulation
+com.dragon.android.mobomarket,Unknown
+com.iobit.mobilecare.pcsync,Unknown
+embware.phoneblocker,Communication
+com.sonyericsson.cellbroadcast.widget,Unknown
+com.iobit.mobilecare,Tools
+com.moborobo.daemon,Unknown
+com.nymgo.android,Communication
+org.microemu.android.se.appello.lp.WisepilotSE,Travel &amp; Local
+com.gpstrackerapp,Tools
+com.gameloft.android.LATAM.GloftB3HP,Unknown
+com.my186soft.filemanager,Unknown
+com.bitmapgalaxy.lpg,Arcade
+com.rovio.angrybirdsspace.premium,Arcade
+it.codegen.mobile.dialogtraveller,Travel &amp; Local
+com.azarlive.android,Communication
+com.videon.android.mediaplayer_i18n,Unknown
+com.iseeyoulite,Tools
+com.cool.koreantvchannels,Unknown
+lk.bhasha.dictionary,Books &amp; Reference
+com.bodybuilding.mobile,Health &amp; Fitness
+com.uc.browser.en,Communication
+com.softwinner.explore,Unknown
+com.ilegendsoft.mercury,Productivity
+com.netguru.ibreviary,Books &amp; Reference
+com.example.testemorada,Unknown
+com.jerusalemonline.client,News &amp; Magazines
+com.sec.setdefaultbrowser,Unknown
+ru.empireappsandgames.simulatorlaser,Simulation
+smart.vs.london.man.suit,Photography
+com.sonymobile.slideshow,Unknown
+com.android.musicvis,Unknown
+com.android.wallpaper.holospiral,Unknown
+com.sonyericsson.androidapp.everchwallpaper,Unknown
+com.android.noisefield,Unknown
+com.android.galaxy4,Unknown
+com.android.magicsmoke,Unknown
+com.wordwebsoftware.android.wordweb,Books &amp; Reference
+com.ramkumar.mp3cutter,Unknown
+com.fltech.ceyloncalendar,Lifestyle
+net.daum.android.air,Communication
+net.mobilecraft.mushboom,Adventure
+com.sonyericsson.androidapp.storefront,Unknown
+com.FireproofStudios.TheRoom2,Puzzle
+com.heavyfall.constructioncity,Puzzle
+com.imoblife.checkadd_plug_in,Productivity
+com.sonyericsson.android.locationbasedwifi,Unknown
+com.slideme.sam.manager,Unknown
+com.mobisystems.mobiscanner,Business
+com.sonymobile.retaildemo,Unknown
+com.fxsound.android.dfxplayer.trial,Music &amp; Audio
+com.passwordbox.passwordbox,Productivity
+tw.com.freedi.youtube_downloader,Unknown
+com.life360.android.safetymapd,Lifestyle
+com.AndroidA.DroiDownloader,Tools
+com.taxaly.noteme,Tools
+com.hi.applock,Business
+com.xnview.XnResizeLite,Photography
+com.microimage.hirufm,Entertainment
+com.sonyericsson.backuprestore,Unknown
+com.sonymobile.faceregistration,Unknown
+com.powerapps.camera,Photography
+com.hushed.release,Communication
+com.upsidetechnologies.puttreader,Sports
+com.klinker.android.twitter,Unknown
+com.sonymobile.whitebalance,Unknown
+com.leyinetwork.longan.voicechanger,Entertainment
+com.android.camera,Unknown
+com.zapstudio.transparent.app.free,Unknown
+com.wObrowser,Unknown
+com.idm.video.download.manager.tool.for.free.nivax,Productivity
+com.julian.fastracing,Racing
+com.samsung.sec.android.appwidget.programmonitorwidget,Unknown
+com.sec.android.widgetapp.dualclock,Unknown
+com.sec.android.widgetapp.clockweather.clockwidget,Unknown
+com.sec.android.providers.drm,Unknown
+com.alandroid.net,Unknown
+com.adcb.bank,Finance
+lk.bhasha.hirutv,Entertainment
+com.sec.android.widgetapp.ap.hero.accuweather.widget,Unknown
+com.disney.PirateWars,Unknown
+it.junglestudios.cookieclickers,Casual
+com.sadetta.javelin,Sports
+com.gumieurope.bravefrontier,Role Playing
+team.vc.kompaskiosk,News &amp; Magazines
+org.labanux.bukuende,Books &amp; Reference
+com.naturalmotion.csrracing,Racing
+com.lego.duplo.trains,Puzzle
+air.com.lego.city.rapidrescue,Unknown
+com.halfbrick.jetpackjoyride,Arcade
+com.lego.juniors.quest,Adventure
+com.lego.city.my_city,Action
+com.lego.bricksmore,Educational
+com.eightelements.speedbattle,Educational
+com.eightelements.aduduattackfree,Arcade
+com.telkomsel.telkomselcm,Tools
+me.pou.app,Casual
+net.xelnaga.exchanger,Finance
+com.arkalogic.bni.activity,Finance
+com.bigduckgames.flowbridges,Puzzle
+roman10.media.converter,Media &amp; Video
+com.lifevibes.trimapp,Unknown
+com.anda.otgdisk,Tools
+com.northpark.drinkwater,Health &amp; Fitness
+kr.sira.measure,Tools
+com.afl.flirt.view,Social
+com.wSinglesXDating,Unknown
+com.fmginc.hardlinemobile,Social
