@@ -22,9 +22,11 @@ def get_app_duration():
     t.execute(sql1)
     session = t.fetchall()
 
+    n = 0
+
     for sess in session:
         # (1L, 1393506484647.0, 'afbaec11-75c4-48df-b43c-3878b3359a04', 1393506485646.0, 999.0)  session sample 
-        sql2 = "SELECT * from applications_history WHERE device_id='%s' AND process_importance=100 AND %d<timestamp<%d" % (sess[2], sess[1], sess[3])
+        sql2 = "SELECT * from applications_history WHERE device_id='%s' AND process_importance=100 AND %d<=timestamp AND timestamp<=%d" % (sess[2], sess[1], sess[3])
         t.execute(sql2)
         app_list = t.fetchall()
         for info in app_list:
@@ -41,6 +43,9 @@ def get_app_duration():
                 time_of_day = 2
             
             duration = info[7] - info[1]
+            
+            print n
+            n += 1
 
             sql3 = "INSERT INTO user_app_duration (device_id, category, duration, time_of_day) VALUES('%s', '%s', %d, %d)"%(info[2], category, duration, time_of_day)
             t.execute(sql3)
