@@ -1,0 +1,26 @@
+About the categories merge:
+
+Categories list:
+ ['Unknown', 'Communication', 'Social', 'Tools', 'Shopping', 'Travel', 'Productivity', 'Weather', 'News', 'Media', 'Photography', 'Finance', 'Casual', 'Arcade', 'Health', 'Entertainment', 'Books', 'Personalization', 'Lifestyle', 'Music', 'Strategy', 'Business', 'Comics', 'Family', 'Transportation', 'Card', 'Word', 'Libraries', 'Board', 'Sports', 'Racing', 'Action', 'Simulation', 'Puzzle', 'Education', 'Role', 'Trivia', 'Medical', 'Adventure', 'Educational']
+
+
+1. Create New Category 'Game'
+Merge folowing categories into 'Game' (16 into 1)
+['Strategy', 'Racing', 'Action', 'Simulation', 'Puzzle', 'Role', 'Board', 'Arcade', 'Adventure', 'Card', 'Casual', 'Educational', 'Sports',  'Family', 'Trivia', 'Word',]
+
+
+2. Other Sparse Categories
+Shopping, Finance, Health, Business, Comics, Transportation, Libraries, Education, Medical.
+
+Merge plan: 
+1. Business, Shopping merge together into Finance
+2. Medical and Health merge into Lifestyle
+3. Comics merge into Entertainment
+4. Libraries and Education merge into Books
+5. Transportation merge into Travel
+
+After Merge Result
+ ['Unknown', 'Communication', 'Social', 'Tools', 'Travel', 'Productivity', 'Weather', 'News', 'Media', 'Photography', 'Finance', 'Entertainment', 'Books', 'Personalization', 'Lifestyle', 'Music', 'Game']
+
+Remaining 17 categories.
+
