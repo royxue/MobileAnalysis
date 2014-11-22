@@ -1,7 +1,7 @@
 """
 Scripts for merge data
 """
-
+import MySQLdb
 
 def merge_data():
     connection = MySQLdb.connect('localhost', 'root', '', 'mobile_analysis')
@@ -63,4 +63,7 @@ def merge_data():
             sum_time = 0
 
     connection.commit()      
-	
+
+
+if __name__ == "__main__":
+    merge_data()
