@@ -30,3 +30,5 @@ In order to merge the sparse categories, there are 3 way to finish this.
 1. Merge the all sparse sub categories into a new catefory(like 'Game')
 2. Merge related sparse categories into a exsited sparse category(like 1: Business, Shopping, Finance, their apps share some similarity)
 3. Merge sparse categories into an exsited non-sparse category(like 2,3,4,5)
+
+So I use all these three ways to do the category merge process.
