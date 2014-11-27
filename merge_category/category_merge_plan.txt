@@ -32,3 +32,11 @@ In order to merge the sparse categories, there are 3 way to finish this.
 3. Merge sparse categories into an exsited non-sparse category(like 2,3,4,5)
 
 So I use all these three ways to do the category merge process.
+
+More Desciption:
+1. About merge 16 categories into 'Game', because they are all sub-category of Game.
+2. Comics is a special kind of entertainment, so merge it in to Entertainment.
+3. Education is mainly for knowledge from books, so I think it can be merged in to Books. The Libraries is really stange most app in it are some demos, so Im not really sure about this part now.
+4. Transporation is one branch of Travel, so I merge these 2.
+5. Medical and Health are related, but the lifestyle covers different kinds of app, so this I think maybe we have to do some change?
+6. Business with the Shopping apps because business apps are mainly related with buying or selling goods while the shopping app is about buying goods from retailers. Finance are mainly for purchasing app, like bank app or alipay(payment method app) in China, so I think they can be merged together.
