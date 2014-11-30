@@ -17,7 +17,8 @@ for(i in begin:end) {
         kcluster = pam(qc, i);
         tmp[j] = kcluster$silinfo$avg.width;
     }
-    result[i] = mean(tmp);
+    #result[i] = mean(tmp);
+	result[i] = sd(tmp, na.rm=FALSE);
 }
  
 
