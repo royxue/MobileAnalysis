@@ -34,6 +34,6 @@ Unknown alone
 Productivity
 
 After Merge Result
- ['Unknown', 'Communication', 'Social', 'Travel', 'Productivity', 'Weather', 'Finance', 'Entertainment', 'Books', 'Personalization', 'Lifestyle', 'Game', 'Health', 'Libraries', 'Education']
+['Unknown', 'Communication', 'Social', 'Travel', 'Productivity', 'Weather', 'Finance', 'Entertainment', 'Books', 'Personalization', 'Lifestyle', 'Game', 'Health', 'Libraries', 'Education']
 
 # for category name like "X and Y" Crawler only get X to represent the whole name
