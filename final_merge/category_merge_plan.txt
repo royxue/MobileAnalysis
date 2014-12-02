@@ -1,0 +1,39 @@
+About the categories merge:
+
+Categories list:
+ ['Unknown', 'Communication', 'Social', 'Tools', 'Shopping', 'Travel', 'Productivity', 'Weather', 'News', 'Media', 'Photography', 'Finance', 'Casual', 'Arcade', 'Health', 'Entertainment', 'Books', 'Personalization', 'Lifestyle', 'Music', 'Strategy', 'Business', 'Comics', 'Family', 'Transportation', 'Card', 'Word', 'Libraries', 'Board', 'Sports', 'Racing', 'Action', 'Simulation', 'Puzzle', 'Education', 'Role', 'Trivia', 'Medical', 'Adventure', 'Educational']
+
+Merge Plans
+
+1. Create New Category 'Game'
+Merge folowing categories into 'Game' (16 into 1)
+['Strategy', 'Racing', 'Action', 'Simulation', 'Puzzle', 'Role', 'Board', 'Arcade', 'Adventure', 'Card', 'Casual', 'Educational', 'Sports',  'Family', 'Trivia', 'Word',]
+
+2. Medical merge in to Health
+
+3. Sports merge into Lifestyle
+
+4. Shopping and Business merge into Finance
+
+5. Music and audio, Photography, Media and Video, News and magazines and Comics merge into Entertainment
+
+6. Live wallpapers, Widgets merge into Personlization
+
+7. Transportation merge into Travel
+
+8. Tools merge into Productivity
+
+9. 
+Libraries and demo alone
+Communication alone
+Education alone
+Books and reference alone
+Social alone
+Weather alone
+Unknown alone
+Productivity
+
+After Merge Result
+ ['Unknown', 'Communication', 'Social', 'Travel', 'Productivity', 'Weather', 'Finance', 'Entertainment', 'Books', 'Personalization', 'Lifestyle', 'Game', 'Health', 'Libraries', 'Education']
+
+# for category name like "X and Y" Crawler only get X to represent the whole name
