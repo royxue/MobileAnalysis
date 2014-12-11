@@ -8,6 +8,8 @@ end <- 20;
 # Store result
 result = c();
 result[begin:end] = -1;
+sd_result = c();
+sd_result[begin:end] = -1;
  
 data <- read.csv("/Users/royxue/Code/CMU_Projects/code/kmeans/final_merge.csv");
 
@@ -22,8 +24,10 @@ for(i in begin:end) {
 		sk2 <- silhouette(kcluster$cl, dE2);
     }
     result[i] = mean(sk2);
+    sd_result[i] = sd(sk2)
 }
  
-plot(result, type="o", xlab="Number of Cluster", ylab="Silhouette Score");
+plot(result, type="o", xlab="Number of Cluster", ylab="Silhouette Score", main="Mean");
+plot(sd_result, type="o", xlab="Number of Cluster", ylab="Silhouette Score", main="Standard Deviation");
 
 
