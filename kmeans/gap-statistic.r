@@ -4,7 +4,7 @@ library(plyr)
 library(ggplot2)
 
 # Given a matrix `data`, where rows are observations and columns are individual dimensions, compute and plot the gap statistic (according to a uniform reference distribution).
-gap_statistic = function(data, min_num_clusters = 2, max_num_clusters = 50, num_reference_bootstraps = 50) {
+gap_statistic = function(data, min_num_clusters = 2, max_num_clusters = 20, num_reference_bootstraps = 50) {
   num_clusters = min_num_clusters:max_num_clusters
   actual_dispersions = maply(num_clusters, function(n) dispersion(data, n))
   ref_dispersions = maply(num_clusters, function(n) reference_dispersion(data, n, num_reference_bootstraps))
