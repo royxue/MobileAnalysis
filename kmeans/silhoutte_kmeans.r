@@ -2,7 +2,7 @@ library(cluster);
 
 # Start from 2 to 20
 begin <- 2; 
-count <- 50;
+count <- 100;
 end <- 20;
  
 # Store result
@@ -16,11 +16,14 @@ for(i in begin:end) {
     tmp = c();
     tmp[1:count] = 0;
     for(j in 1:count) {
-        kcluster = pam(data[, 3:47], i);
-        tmp[j] = kcluster$silinfo$avg.width;
+        kcluster = kmeans(data[, 3:47], i);
+		dissE <- daisy(data[,3:47]);
+		dE2 <- dissE^2;
+		sk2 <- silhouette(kcluster$cl, dE2);
     }
-    result[i] = mean(tmp);
+    result[i] = mean(sk2);
 }
  
-plot(tmp, type="o", xlab="Number of Cluster", ylab="Silhouette Score");
+plot(result, type="o", xlab="Number of Cluster", ylab="Silhouette Score");
+
 
