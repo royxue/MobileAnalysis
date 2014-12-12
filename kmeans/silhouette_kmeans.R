@@ -11,6 +11,7 @@ result = c();
 result[begin:end] = -1;
 sd_result = c();
 sd_result[begin:end] = -1;
+a = matrix(1,nrow=50, ncol=19)
 
 data <- read.csv("/Users/royxue/Code/CMU_Projects/code/kmeans/final_merge.csv");
 l_data = data[,3:47];
@@ -24,9 +25,10 @@ for(i in begin:end) {
     stats = cluster.stats(dist(l_data), kcluster$cluster)
     tmp[j] = stats$avg.silwidth
   }
+  #a[1:50, i-1] = tmp
   result[i] = mean(tmp);
   sd_result[i] = sd(tmp);
 }
 
-plot(result, type="o", xlab="Number of Cluster", ylab="Silhouette Score", main="Mean");
-plot(sd_result, type="o", xlab="Number of Cluster", main="Standard Deviation");
+plot(sd_result, type="o", xlab="Number of Cluster", ylab="Silhouette Score");#lines(sd_result, type="o");
+#boxplot(a)
