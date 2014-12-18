@@ -32,3 +32,9 @@ for(i in begin:end) {
 
 #plot(sd_result, type="o", xlab="Number of Cluster", ylab="Silhouette Score");#lines(sd_result, type="o");
 boxplot(a)
+
+
+# Hierarchical clustering
+z1 = dist(l_data, method = 'euclidean')
+x <- hclust(z1, method='complete')
+plot(x)
