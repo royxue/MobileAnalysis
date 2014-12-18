@@ -33,8 +33,9 @@ def get_session():
                 if line[3] == 0 or line[3] == 2:
                     end_time = line[1]
                     duration = end_time - start_time
-                    sql3 = "INSERT INTO user_session (device_id, start_time, end_time, duration) VALUES('%s',%d,%d,%d)"%(did, start_time, end_time, duration)
-                    t.execute(sql3)
+					if duration > 0:
+                    	sql3 = "INSERT INTO user_session (device_id, start_time, end_time, duration) VALUES('%s',%d,%d,%d)"%(did, start_time, end_time, duration)
+                    	t.execute(sql3)
                     start_time = 0
                     end_time = 0
         
