@@ -1,5 +1,5 @@
 library(cluster);
-library(fpc)
+library(fpc);
 
 # Start from 2 to 20
 begin <- 2; 
