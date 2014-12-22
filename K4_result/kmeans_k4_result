@@ -114,7 +114,7 @@ Result 2:
 4         0.9647378          0.01772378        0.01753844
 
 
-Result 3:
+Result 3:rnorm
   Unknown_morning Unknown_afternoon Unknown_evening Communication_morning
 1      0.04936665       0.758171588     0.192461765            0.06246247
 2      0.87772767       0.009413111     0.001748111            0.97103267
