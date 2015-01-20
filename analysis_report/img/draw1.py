@@ -6,7 +6,7 @@ len1 = len(dict1.keys())
 
 pos = arange(len1) + .5
 
-val = [dict1[a][1] for a in dict1.keys()]
+val = [dict1[a][0] for a in dict1.keys()]
 
 
 figure(1)
