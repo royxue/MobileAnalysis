@@ -11,6 +11,7 @@ val = [dict1[a][1] for a in dict1.keys()]
 
 figure(1)
 hist(val, bins=50)
+gca().set_xscale("log")
 ylabel('Frequency')
 xlabel('Total Duration')
 title('Total Duration Histogram')
